@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <title>Popup</title>
+  <meta http-equiv="content-type" content="text/html";charset="utf-8" />
+
+  <style>
+    * 
+      {
+  font-family: Arial,  sans-serif;
+} 
+    body {
+      width: 300px;
+      height: 600px;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+
+    #summary {
+      font-size: 14px;
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 2px solid #000;
+      animation: typing 2s steps(40) forwards;
+      white-space: pre-wrap;
+    }
+
+    @keyframes typing {
+      0% { width: 0; }
+      100% { width: 100%; }
+    }
+ #extension-icon {
+  width: 16px;
+  height: 16px;
+  background-image: url('images/icon-16.png'); 
+}
+
+  </style>
+</head>
+<body> 
+<!-- <div id="extension-icon"></div> -->
+
+  <h1>ملخص الفيديو</h1>
+  <p id="summary"></p>
+  <button id="extractBtn">استخراج ملخص الفيديو</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
