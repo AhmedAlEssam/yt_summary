@@ -1,0 +1,1340 @@
+
+ 
+<!-- 
+    // ytDOM(browser,newTranscript,caption,videoID,page)
+
+    // ytInitialPlayerResponse> captions> playerCaptionsTracklistRenderer> captionTracks> []{
+    // baseUrl:"https://www.youtube.com/api/timedtext?v=Vq_IhRfQYwQ&ei=W-TMZMj1LOavxN8P9KyU0Ak&caps=asr&opi=112496729&xoaf=5&hl=en&ip=0.0.0.0&ipbits=0&expire=1691174603&sparams=ip,ipbits,expire,v,ei,caps,opi,xoaf&signature=1ADB68F20E6A88A3F600B149D6E09FBE32260F88.DD77D3773DBABD33DD25233FFE26687AFFCCB629&key=yt8&lang=ar"
+    // languageCode:ar
+    // name:{ simpleText:"Arabic"}
+    // }
+    
+
+    // ytInitialPlayerResponse> microformat> playerMicroformatRenderer> description>{simpleText:string}
+    // ytInitialPlayerResponse> microformat> playerMicroformatRenderer> ownerChannelName:"Ali Fani Official / علی فانی"
+    // ytInitialPlayerResponse> microformat> playerMicroformatRenderer> ownerProfileUrl:"http://www.youtube.com/@AliFaniOfficial"
+    // ytInitialPlayerResponse> microformat> playerMicroformatRenderer> publishDate:"2021-07-30"
+    // ytInitialPlayerResponse> microformat> playerMicroformatRenderer> title:simpleText:"Dua Kumayl (AR SUB) - Ali Fani, Mohsen Farahmand Azad, Sayed Mustafa Al Musawi | دعای کمیل" uploadDate: "2021-07-30" viewCount: "1052115"
+    // ytInitialPlayerResponse> videoDetails >author:"Ali Fani Official / علی فانی"
+                                        //   channelId: "UC_Pfw3H0Y_diCCMiB0_MCSA"
+                                        // keywords: (32) ['ali fani dua', 'Dua kumayl ali fani', 'dua kumail ali fani', 'dua komail ali fani', 'دعای کمیل علی فانی', 'علي فاني دعاء كميل', 'Ali Fani', 'alifani', 'علی فانی', 'علي فاني', 'Dua Kumayl', 'dua komail', 'ali fani dua kumayl', 'دعای کمیل', 'ali fani dua faraj', 'ali fani ziyarat ashura', 'ناشد', 'زيارة', 'زیارت', 'دعا', 'دعاء', 'دعاء كميل', 'دعای کمیل فرهمند', 'دعای کمیل کامل', 'الدعاء', 'جوامع الدعاء', 'دعاء كميل المنشد علي فاني', 'الدعاء المستجاب', 'نشید اسلامی عربی', 'دعاء كميل بصوت باسم الكربلائي', 'كميل بن زياد النخعي', 'كميل بن زياد']
+                                        // shortDescription: "Listen now: https://lnk.to/duakumayl\nWatch Ali Fani's Muharram Playlist: https://lnk.to/Muharram\n\n– Join Ali Fani on #Spotify and add your favourite tracks to your personal playlist: https://lnk.to/AliFaniSpotify\n\nCREDITS :\n\nReciter: Mohsen Farahmand Azad, Sayed Mustafa Musawi, Ali Fani\nTranslator: Ali Quli Qarai\nArrangement: Mahdi Shekarchi\nMix & Mastering: Hassan PoorMohammadi\nGraphic Designer: Sara Farahani\nSpecial Effects: Masoud Talebani\nSpecial thanks to: Dr Morteza Yousefi, Mahdi Ashjaei, Amin Parvas, Mohsen Vaeidi, Morteza Shojayi, Mahdi Najafi, Sayed Muhammad Shayan Sarkeshikiyan, Sayed Hadi Vatani\nProducer: Media12\n\n\nFollow Ali Fani on:\nhttps://www.instagram.com/alifani.official/\nhttps://www.facebook.com/AliFaniOfficial\nhttps://t.me/AliFaniOfficial\nhttps://www.youtube.com/c/AliFaniOfficial/videos\n\nCopyright © Ali Fani\n#AliFani"
+                                        // title: "Dua Kumayl (AR SUB) - Ali Fani, Mohsen Farahmand Azad, Sayed Mustafa Al Musawi | دعای کمیل"
+                                        // videoId: "Vq_IhRfQYwQ"
+                                        // viewCount: "1052115" 
+-->
+                     
+<?xml version="1.0" encoding="utf-8" ?>
+<transcript>
+    <text start="0" dur="3.24">Community you really were a blue coat</text>
+    <text start="1.62" dur="3.36">weren&amp;#39;t you I wasn&amp;#39;t blue yeah at the</text>
+    <text start="3.24" dur="4.559">place you showed which was next door to</text>
+    <text start="4.98" dur="4.68">heesham nuclear power station the thing</text>
+    <text start="7.799" dur="3.72">is I&amp;#39;ve got settler because I was I</text>
+    <text start="9.66" dur="4.139">worked at a really good one in Yarmouth</text>
+    <text start="11.519" dur="4.981">Great Yarmouth got sacked which is</text>
+    <text start="13.799" dur="4.501">another story and then uh it was sacked</text>
+    <text start="16.5" dur="3.539">and then and was sent to we&amp;#39;ll move on</text>
+    <text start="18.3" dur="3.42">to that in a minute</text>
+    <text start="20.039" dur="3.541">sent to this one sent to that one as a</text>
+    <text start="21.72" dur="4.559">sort of punishment it was like uh you&amp;#39;re</text>
+    <text start="23.58" dur="5.039">going to Morecambe to do six months</text>
+    <text start="26.279" dur="5.58">because you have just you&amp;#39;ve just done</text>
+    <text start="28.619" dur="5.041">something what had you done</text>
+    <text start="31.859" dur="4.22">instead of cheeky in the 70s but now is</text>
+    <text start="33.66" dur="2.419">illegal</text>
+    <text start="40.16" dur="4.48">it was actually an incident where it was</text>
+    <text start="42.36" dur="4.08">my first attempt to stand up comedy and</text>
+    <text start="44.64" dur="3.18">uh what happened was I I&amp;#39;d always wanted</text>
+    <text start="46.44" dur="3.72">to do stand-up comedy I didn&amp;#39;t have the</text>
+    <text start="47.82" dur="4.259">guts to do it I got very drunk I had a</text>
+    <text start="50.16" dur="3.66">go at doing it as a blue coat my mate</text>
+    <text start="52.079" dur="3.721">said to me just copy all the other</text>
+    <text start="53.82" dur="3.78">comedians at pontins and steal their</text>
+    <text start="55.8" dur="3.48">jokes and basically talk to the front</text>
+    <text start="57.6" dur="3.66">row so you&amp;#39;re supposed to say where</text>
+    <text start="59.28" dur="3.48">you&amp;#39;re from they say Scotland you say</text>
+    <text start="61.26" dur="3.06">who paid for your holiday where you&amp;#39;re</text>
+    <text start="62.76" dur="4.5">from Wales you&amp;#39;re making noise like a</text>
+    <text start="64.32" dur="4.02">sheep rubbish jokes right but I said</text>
+    <text start="67.26" dur="2.7">that&amp;#39;s terrible he said don&amp;#39;t worry</text>
+    <text start="68.34" dur="3.48">you&amp;#39;re just padding what you&amp;#39;re doing is</text>
+    <text start="69.96" dur="4.92">you&amp;#39;re looking for comedy gold which is</text>
+    <text start="71.82" dur="6.36">where you&amp;#39;re from they say Kent and you</text>
+    <text start="74.88" dur="4.5">say what did you call me right now at</text>
+    <text start="78.18" dur="3.24">Poltergeist is this used to take the</text>
+    <text start="79.38" dur="7.04">roof off right</text>
+    <text start="81.42" dur="5">so I tried it but I was very drunk</text>
+    <text start="86.64" dur="4.5">so I go on stage</text>
+    <text start="88.619" dur="5.101">and I say where are you from</text>
+    <text start="91.14" dur="5.299">this bloke says Scotland I can&amp;#39;t</text>
+    <text start="93.72" dur="2.719">remember the joke</text>
+    <text start="96.72" dur="2.3">hello</text>
+    <text start="100.259" dur="6.141">from the guy says Wales</text>
+    <text start="102.42" dur="3.98">I&amp;#39;d black out and I go hi</text>
+    <text start="107" dur="5.579">and then I say anyone in from Kent</text>
+    <text start="115.38" dur="5.099">bloke shouts out me laughs</text>
+    <text start="121.68" dur="3.14">and I said</text>
+    <text start="130.619" dur="5.161">okay</text>
+    <text start="133.32" dur="2.61">[Applause]</text>
+    <text start="135.78" dur="6.109">[Laughter]</text>
+    <text start="135.93" dur="5.959">[Applause]</text>
+    <text start="143.29" dur="4.97">[Music]</text>
+    <text start="145.459" dur="4.601">Fifty Shades Darker but actually this</text>
+    <text start="148.26" dur="3.18">isn&amp;#39;t darker it&amp;#39;s more romantic I would</text>
+    <text start="150.06" dur="2.28">say yeah I think that&amp;#39;s probably true</text>
+    <text start="151.44" dur="4.26">yeah</text>
+    <text start="152.34" dur="6.68">um uh yes but there&amp;#39;s probably more sex</text>
+    <text start="155.7" dur="3.32">in it which</text>
+    <text start="165" dur="3.56">I make noises</text>
+    <text start="170.84" dur="4.899">American accented noises through it</text>
+    <text start="174.3" dur="3.36">um no there&amp;#39;s actually a question though</text>
+    <text start="175.739" dur="3.78">do they let you do that I mean like when</text>
+    <text start="177.66" dur="3.659">you&amp;#39;re when you&amp;#39;re doing the scenes does</text>
+    <text start="179.519" dur="4.44">the director say</text>
+    <text start="181.319" dur="4.64">more vocalization</text>
+    <text start="183.959" dur="2">um</text>
+    <text start="189.2" dur="6.24">they&amp;#39;re like no that&amp;#39;s not that&amp;#39;s not</text>
+    <text start="191.879" dur="3.561">good no one comes like that</text>
+    <text start="196.319" dur="5.761">man</text>
+    <text start="198.86" dur="5.62">[Laughter]</text>
+    <text start="202.08" dur="5.04">there&amp;#39;s some scenes where</text>
+    <text start="204.48" dur="5.179">they will play music maybe a bit of if</text>
+    <text start="207.12" dur="5.52">it&amp;#39;s a wide shot and it&amp;#39;s not like so</text>
+    <text start="209.659" dur="5.021">it&amp;#39;s the closest we get to sort of kind</text>
+    <text start="212.64" dur="3.3">of sort of just sort of going for it in</text>
+    <text start="214.68" dur="2.339">one piece</text>
+    <text start="215.94" dur="3.659">um and 
+they&amp;#39;ll play music or something</text>
+    <text start="217.019" dur="5.161">and my temptation is always just to try</text>
+    <text start="219.599" dur="4.981">to make Dakota laugh so sometimes I&amp;#39;ll</text>
+    <text start="222.18" dur="4.979">do things like when there&amp;#39;s a moment</text>
+    <text start="224.58" dur="4.23">where I&amp;#39;m meant to you know orgasm I&amp;#39;ll</text>
+    <text start="227.159" dur="6.561">be like</text>
+    <text start="228.81" dur="4.91">[Laughter]</text>
+    <text start="239.44" dur="7">[Laughter]</text>
+    <text start="249.68" dur="4.9">and was it nice to be this one because</text>
+    <text start="251.879" dur="4.86">last time it was you and sort of</text>
+    <text start="254.58" dur="4.32">everyone else was was a woman a director</text>
+    <text start="256.739" dur="3.68">and everything but this time it&amp;#39;s 
+a it&amp;#39;s</text>
+    <text start="258.9" dur="3.96">a man directing that make a difference</text>
+    <text start="260.419" dur="5.681">no not really to be honest I mean I</text>
+    <text start="262.86" dur="5.52">think whoever is uh tasked with</text>
+    <text start="266.1" dur="4.2">directing those kind of scenes I mean</text>
+    <text start="268.38" dur="4.2">you know these guys know the sex scenes</text>
+    <text start="270.3" dur="3.959">are awkward anyway and it just needs a</text>
+    <text start="272.58" dur="3.96">very</text>
+    <text start="274.259" dur="4.561">this is why I love him</text>
+    <text start="276.54" dur="4.68">because he includes me and yeah you know</text>
+    <text start="278.82" dur="3.79">these guys know sex scenes are just</text>
+    <text start="281.22" dur="6">really hard it&amp;#39;s like no babe</text>
+    <text start="282.61" dur="6.11">[Laughter]</text>
+    <text start="287.22" dur="3.62">what</text>
+    <text start="288.72" dur="4.979">you did so many films</text>
+    <text start="290.84" dur="5.82">at some point no no no no I&amp;#39;m back in</text>
+    <text start="293.699" dur="2.961">The Hobbit no</text>
+    <text start="297.3" dur="3.02">yeah</text>
+    <text start="298.08" dur="5.76">a couple of people under that habit but</text>
+    <text start="300.32" dur="6.96">no no no no no no what is that was that</text>
+    <text start="303.84" dur="3.44">your decision no</text>
+    <text start="308.4" dur="5.12">this is based on your life I mean this</text>
+    <text start="310.5" dur="3.02">is things yeah</text>
+    <text start="314.34" dur="4.56">Loosely Graham filled with things like</text>
+    <text start="317.04" dur="5.46">isn&amp;#39;t the washing machine that happened</text>
+    <text start="318.9" dur="6.019">to you what the the washing you were</text>
+    <text start="322.5" dur="4.88">very hungover oh</text>
+    <text start="324.919" dur="5.401">yeah</text>
+    <text start="327.38" dur="5.44">tell Jody Foster that story</text>
+    <text start="330.32" dur="3.64">all their stories are really cool though</text>
+    <text start="332.82" dur="2.879">Grail</text>
+    <text start="333.96" dur="4.86">when I was teaching</text>
+    <text start="335.699" dur="5.101">this is what this show is based on I I</text>
+    <text start="338.82" dur="4.98">went home one weekend and I was in my</text>
+    <text start="340.8" dur="5.7">30s I was probably 33 years of age I</text>
+    <text start="343.8" dur="4.44">went home to see my mother</text>
+    <text start="346.5" dur="3.18">and then I went back and while I was at</text>
+    <text start="348.24" dur="3.78">home my mother did my washing for me</text>
+    <text start="349.68" dur="5.519">because I was only 33.</text>
+    <text start="352.02" dur="7.08">and I went back on the on the Sunday</text>
+    <text start="355.199" dur="5.22">night I got really drunk uh and then I I</text>
+    <text start="359.1" dur="5.06">went for a curry</text>
+    <text start="360.419" dur="3.741">and then the next day I went into school</text>
+    <text start="365.34" dur="4.32">I&amp;#39;m gonna I went into school and it was</text>
+    <text start="367.86" dur="2.94">a school in Slough and it was quite a</text>
+    <text start="369.66" dur="3">rough school but they had a really</text>
+    <text start="370.8" dur="4.44">brilliant hearing impaired department so</text>
+    <text start="372.66" dur="4.86">they were hearing impaired kids who uh</text>
+    <text start="375.24" dur="3.42">you know struggled they were they were</text>
+    <text start="377.52" dur="3.54">really looked after in the school anyway</text>
+    <text start="378.66" dur="4.08">I was really hungover I went there and</text>
+    <text start="381.06" dur="3.3">about break time I felt really</text>
+    <text start="382.74" dur="4.44">uncomfortable I thought something&amp;#39;s not</text>
+    <text start="384.36" dur="6.48">right you know so I went to the toilet</text>
+    <text start="387.18" dur="6.72">and I pulled my trousers down and some</text>
+    <text start="390.84" dur="6">of my mother&amp;#39;s knickers had got</text>
+    <text start="393.9" dur="5.94">I got mixed up in the washing and I was</text>
+    <text start="396.84" dur="6.84">wearing my mother&amp;#39;s</text>
+    <text start="399.84" dur="6.96">and I went oh God no oh I remember going</text>
+    <text start="403.68" dur="6.5">are you loser this is such a low point</text>
+    <text start="406.8" dur="3.38">you [ __ ] loser</text>
+    <text start="410.78" dur="5.199">and then the curry and the boot the</text>
+    <text start="414.36" dur="5.82">curry and the booze kicked in from the</text>
+    <text start="415.979" dur="6">night before so I I did like a fecal</text>
+    <text start="420.18" dur="4.799">Jackson collar</text>
+    <text start="421.979" dur="3">foreign</text>
+    <text start="427.44" dur="6.72">I started going oh God not this 
+not this</text>
+    <text start="430.62" dur="6.359">as well oh Jesus so I cleaned myself up</text>
+    <text start="434.16" dur="5.939">and I pulled my mother&amp;#39;s pants back</text>
+    <text start="436.979" dur="5.16">and I went back into the um classroom</text>
+    <text start="440.099" dur="4.44">and I saw one of the hearing impaired</text>
+    <text start="442.139" dur="4.201">kids just looking at me like this and</text>
+    <text start="444.539" dur="4.761">that&amp;#39;s when I remembered that my I had a</text>
+    <text start="446.34" dur="2.96">microphone directly</text>
+    <text start="453.979" dur="6.36">here we go</text>
+    <text start="457.13" dur="3.209">[Applause]</text>
+    <text start="461.66" dur="7.42">so maybe Man Down isn&amp;#39;t that far-fetched</text>
+    <text start="466.139" dur="4.5">John for you obviously lovely that Emily</text>
+    <text start="469.08" dur="4.08">wants to be in the absolutely but as a</text>
+    <text start="470.639" dur="5.581">director is it then weird giving your</text>
+    <text start="473.16" dur="4.68">life partner notes it was weird because</text>
+    <text start="476.22" dur="3.24">I was very nervous about it to be honest</text>
+    <text start="477.84" dur="3">I think we both were before we started</text>
+    <text start="479.46" dur="3">shooting she said are you nervous and I</text>
+    <text start="480.84" dur="2.88">said I&amp;#39;m terrified and she said oh good</text>
+    <text start="482.46" dur="2.22">me too</text>
+    <text start="483.72" dur="3.18">um I think it&amp;#39;s one of those things</text>
+    <text start="484.68" dur="3.299">where people think because we&amp;#39;re both in</text>
+    <text start="486.9" dur="2.94">the same business we have the same</text>
+    <text start="487.979" dur="4.081">experiences but I&amp;#39;ve actually never been</text>
+    <text start="489.84" dur="5.419">on set with her seen how she worked I&amp;#39;d</text>
+    <text start="492.06" dur="5.52">heard she was a diva and I just</text>
+    <text start="495.259" dur="4.78">can&amp;#39;t get Emily out of her trailer stuff</text>
+    <text start="497.58" dur="4.86">like that it&amp;#39;s like oh and um no but I</text>
+    <text start="500.039" dur="4.321">think what it was is and it sounds</text>
+    <text start="502.44" dur="3.3">really sappy but it&amp;#39;s true I think it&amp;#39;s</text>
+    <text start="504.36" dur="3.959">the greatest collaboration I&amp;#39;ve ever had</text>
+    <text start="505.74" dur="4.079">in my career I I&amp;#39;ve never seen her work</text>
+    <text start="508.319" dur="3.541">and when you are actually in the room</text>
+    <text start="509.819" dur="3.301">and she does what she does it honestly</text>
+    <text start="511.86" dur="3.179">it changes the air in the room everyone</text>
+    <text start="513.12" dur="6.44">is just completely and totally 
+stunned</text>
+    <text start="515.039" dur="4.521">by what she does oh yeah</text>
+    <text start="524" dur="5.5">this is what I have to learn early on in</text>
+    <text start="526.74" dur="4.14">our oh that relationship was it British</text>
+    <text start="529.5" dur="3">people are notoriously terrible at</text>
+    <text start="530.88" dur="3.18">taking compliments would you agree just</text>
+    <text start="532.5" dur="3.56">like</text>
+    <text start="534.06" dur="2">um</text>
+    <text start="544.82" dur="3.82">you weren&amp;#39;t cool at all there was none</text>
+    <text start="546.839" dur="4.5">of that actually I don&amp;#39;t know your work</text>
+    <text start="548.64" dur="5.58">you are a proper fan of it I was full</text>
+    <text start="551.339" dur="6.141">stalker status yeah I was just like hey</text>
+    <text start="554.22" dur="3.26">you want to go on 
+a date with me</text>
+    <text start="558.8" dur="6.42">how many times have you seen Devil Wears</text>
+    <text start="560.94" dur="6.959">Prada I mean not 75 give or take 72.</text>
+    <text start="565.22" dur="4.48">yeah no it&amp;#39;s one of those things that</text>
+    <text start="567.899" dur="4.201">back in the day us elderly people used</text>
+    <text start="569.7" dur="4.04">to channel and um no one does that</text>
+    <text start="572.1" dur="5.04">anymore</text>
+    <text start="573.74" dur="4.599">like I said so cruel oh it&amp;#39;s just one of</text>
+    <text start="577.14" dur="2.28">those movies that whatever whenever</text>
+    <text start="578.339" dur="3.06">you&amp;#39;re going through the channels you</text>
+    <text start="579.42" dur="3.39">just stop and you I mean look has anyone</text>
+    <text start="581.399" dur="2.281">seen the film hey probably</text>
+    <text start="582.81" dur="1.91">[Applause]</text>
+    <text start="583.68" dur="4.02">um</text>
+    <text start="584.72" dur="5.44">there&amp;#39;s a sort of Montage sequence where</text>
+    <text start="587.7" dur="4.139">Annie Hathaway&amp;#39;s got numerous fabulous</text>
+    <text start="590.16" dur="4.2">outfits that they go through and John</text>
+    <text start="591.839" dur="4.981">one day I came home and he was watching</text>
+    <text start="594.36" dur="4.8">it and and he was watching the Montage</text>
+    <text start="596.82" dur="5.48">bit and he goes</text>
+    <text start="599.16" dur="3.14">that&amp;#39;s my favorite outfit</text>
+    <text start="606.3" dur="3.5">couldn&amp;#39;t get Annie and so I was like</text>
+    <text start="611.36" dur="5.74">Snoop Dogg&amp;#39;s new album bush</text>
+    <text start="614.64" dur="5.699">a very sexy bit of PR of course that uh</text>
+    <text start="617.1" dur="4.56">the mighty Pharrell he co-wrote co-write</text>
+    <text start="620.339" dur="3.06">all the songs he produced the whole</text>
+    <text start="621.66" dur="4.5">album produced the whole album yes sir</text>
+    <text start="623.399" dur="5.161">wow now is it true that Pharrell he was</text>
+    <text start="626.16" dur="5.7">the one encouraging you to be a bit more</text>
+    <text start="628.56" dur="4.86">family friendly a bit more mainstream</text>
+    <text start="631.86" dur="4.26">yeah yeah hey</text>
+    <text start="633.42" dur="4.5">made me change certain words I had a</text>
+    <text start="636.12" dur="4.399">song called so many hoes he made it so</text>
+    <text start="637.92" dur="2.599">many Pros</text>
+    <text start="641.82" dur="2.959">they toned it down</text>
+    <text start="645.06" dur="5.959">it was just prostitutes no they&amp;#39;re</text>
+    <text start="647.64" dur="3.379">professionals oh I see</text>
+    <text start="651.36" dur="4.5">silly me</text>
+    <text start="653.279" dur="4.201">the ladies in the 
+video still look quite</text>
+    <text start="655.86" dur="4.52">like hoes</text>
+    <text start="657.48" dur="5.24">okay professional</text>
+    <text start="660.38" dur="5.74">they&amp;#39;re in a video</text>
+    <text start="662.72" dur="4.66">and then Pharrell is it true that he I</text>
+    <text start="666.12" dur="3.54">mean I&amp;#39;m sure he enjoyed working with</text>
+    <text start="667.38" dur="4.86">you but he did have some difficulties</text>
+    <text start="669.66" dur="5.1">working with you as well yeah when we</text>
+    <text start="672.24" dur="4.5">were um working on a particular song</text>
+    <text start="674.76" dur="3.48">called California roll</text>
+    <text start="676.74" dur="3.659">um Stevie Wonder it came up to the</text>
+    <text start="678.24" dur="3.96">studio and Pharrell had called a second</text>
+    <text start="680.399" dur="4.5">hand contact</text>
+    <text start="682.2" dur="4.74">from being in the studio with me and he</text>
+    <text start="684.899" dur="4.081">kind of froze he didn&amp;#39;t know how to</text>
+    <text start="686.94" dur="5.639">produce anymore he was stuck he was like</text>
+    <text start="688.98" dur="6.359">he might have to explain what the yes so</text>
+    <text start="692.579" dur="6.26">at Pharrell was it an environment</text>
+    <text start="695.339" dur="8.761">created by Snoop</text>
+    <text start="698.839" dur="9.421">Pharrell was no longer the same Pharrell</text>
+    <text start="704.1" dur="6.419">yes he was he was now someone else</text>
+    <text start="708.26" dur="4.199">he was not he was not the greatest</text>
+    <text start="710.519" dur="5.601">producer in the world</text>
+    <text start="712.459" dur="5.981">the guy in the room</text>
+    <text start="716.12" dur="4.36">so it was Stevie Wonder trying to talk</text>
+    <text start="718.44" dur="4.44">to him Stevie Wonder was in the mic both</text>
+    <text start="720.48" dur="4.5">and you know Stevie can&amp;#39;t see so Stevie</text>
+    <text start="722.88" dur="3.78">was waiting on some direction and</text>
+    <text start="724.98" dur="4.58">Pharrell wasn&amp;#39;t giving me no directions</text>
+    <text start="726.66" dur="5.94">so Tina was just in there just</text>
+    <text start="729.56" dur="4.12">this is weird and don&amp;#39;t answer this</text>
+    <text start="732.6" dur="3.66">question if you don&amp;#39;t want to remember</text>
+    <text start="733.68" dur="4.8">but I have I don&amp;#39;t know why you brought</text>
+    <text start="736.26" dur="5.04">this up but I did hear you discuss you</text>
+    <text start="738.48" dur="3.9">had an extraordinary disagreement with</text>
+    <text start="741.3" dur="3.36">your wife</text>
+    <text start="742.38" dur="4.8">about yourself do you know what I&amp;#39;m</text>
+    <text start="744.66" dur="5.299">talking about by myself you mean yes</text>
+    <text start="747.18" dur="2.779">yeah oh</text>
+    <text start="750.3" dur="4.52">yeah listen you know this story listen</text>
+    <text start="752.76" dur="4.68">with interest</text>
+    <text start="754.82" dur="5.28">one night as you do we were talking</text>
+    <text start="757.44" dur="2.66">about stuff</text>
+    <text start="760.16" dur="5.46">I just have no mentioned and of course</text>
+    <text start="762.36" dur="3.26">being circumcised I said</text>
+    <text start="765.86" dur="4.479">they were chatting they&amp;#39;re married</text>
+    <text start="767.76" dur="4.56">they&amp;#39;re married they&amp;#39;re allowed</text>
+    <text start="770.339" dur="5.641">she said</text>
+    <text start="772.32" dur="6.06">she said you&amp;#39;re not circumcised</text>
+    <text start="775.98" dur="4.799">I said what do you mean you&amp;#39;ve only</text>
+    <text start="778.38" dur="4.019">known me if you I I all my life I</text>
+    <text start="780.779" dur="3.3">remember my mother telling me why</text>
+    <text start="782.399" dur="3.961">because it was fashionable at the time</text>
+    <text start="784.079" dur="4.921">she said you&amp;#39;re not circumcised I said</text>
+    <text start="786.36" dur="4.46">that&amp;#39;s ridiculous I should know if I&amp;#39;m</text>
+    <text start="789" dur="5.639">circumcised</text>
+    <text start="790.82" dur="7.44">end of conversation but the next day I</text>
+    <text start="794.639" dur="3.621">happened to be seeing my doctor</text>
+    <text start="798.779" dur="2.901">are you okay</text>
+    <text start="802.2" dur="6.6">I was seeing my doctor about my annual</text>
+    <text start="805.56" dur="5.719">physical of course so uh well he was</text>
+    <text start="808.8" dur="2.479">down there</text>
+    <text start="811.68" dur="6.06">I said excuse me oh by the way of</text>
+    <text start="815.94" dur="3.72">um my wife and I had a little</text>
+    <text start="817.74" dur="5.88">disagreement um</text>
+    <text start="819.66" dur="7.32">I I am circumcised am I because she says</text>
+    <text start="823.62" dur="6.36">I&amp;#39;m not and he goes</text>
+    <text start="826.98" dur="3">not</text>
+    <text start="833.06" dur="3.13">[Applause]</text>
+    <text start="837.5" dur="5.32">it&amp;#39;s not possible so he looked down</text>
+    <text start="840.42" dur="4.82">again and he said hey I&amp;#39;m Jewish I know</text>
+    <text start="842.82" dur="2.42">the difference</text>
+    <text start="846.42" dur="3.979">what is that that is a bizarre</text>
+    <text start="851.01" dur="5.99">[Laughter]</text>
+    <text start="861.899" dur="3.901">you&amp;#39;re gonna have to 
+change your</text>
+    <text start="863.339" dur="5.781">Facebook status</text>
+    <text start="865.8" dur="3.32">no more beef stew</text>
+    <text start="869.7" dur="5.879">well there&amp;#39;s more beef stew</text>
+    <text start="872.24" dur="6.339">because when uh you were starting off in</text>
+    <text start="875.579" dur="5.161">wrestling you had a Persona that am I</text>
+    <text start="878.579" dur="4.141">right well sort of half man half machine</text>
+    <text start="880.74" dur="4.86">was that the idea correct yes this was</text>
+    <text start="882.72" dur="5.28">Prototype it was awful</text>
+    <text start="885.6" dur="3.9">so you you want to try to find a Persona</text>
+    <text start="888" dur="4.8">or here&amp;#39;s some more inside baseball for</text>
+    <text start="889.5" dur="4.68">a gimmick where is it describes you as a</text>
+    <text start="892.8" dur="3.719">character so like when you walk out</text>
+    <text start="894.18" dur="4.26">people notice you and they kind of you</text>
+    <text start="896.519" dur="4.5">can describe your character but these</text>
+    <text start="898.44" dur="6.18">are not gimmicks these this is real whoa</text>
+    <text start="901.019" dur="5.581">whoa I mean if they work yes but you</text>
+    <text start="904.62" dur="4.38">kind of it&amp;#39;s It&amp;#39;s a trial and error</text>
+    <text start="906.6" dur="4.919">process with a lot of errors and uh and</text>
+    <text start="909" dur="4.92">my first try was uh the Prototype which</text>
+    <text start="911.519" dur="3.921">was half man and half machine and 100</text>
+    <text start="913.92" dur="3.659">crap</text>
+    <text start="915.44" dur="4.48">but given that you&amp;#39;re not half a machine</text>
+    <text start="917.579" dur="5.82">how did you demonstrate you were a</text>
+    <text start="919.92" dur="6.599">machine well I I used this ability to</text>
+    <text start="923.399" dur="4.981">talk rather monotone and would say</text>
+    <text start="926.519" dur="3.301">things authoritative and just when I</text>
+    <text start="928.38" dur="3.48">said I would kick your ass at the</text>
+    <text start="929.82" dur="4.079">fairgrounds on Sunday I would 
+rewind it</text>
+    <text start="931.86" dur="3.419">and say it again for you Roy didn&amp;#39;t they</text>
+    <text start="933.899" dur="5">say I would kick your ass at the</text>
+    <text start="935.279" dur="6.201">fairgrounds that didn&amp;#39;t work</text>
+    <text start="938.899" dur="5.201">you no</text>
+    <text start="941.48" dur="5.219">no it didn&amp;#39;t that&amp;#39;s a good one everybody</text>
+    <text start="944.1" dur="6.599">but but it worked on one I have one</text>
+    <text start="946.699" dur="6.041">you found a huge success as John Cena</text>
+    <text start="950.699" dur="4.38">imagine that I figure I need to come up</text>
+    <text start="952.74" dur="4.86">with some sort of name yeah look</text>
+    <text start="955.079" dur="4.26">every wrestler has a name yes and people</text>
+    <text start="957.6" dur="3.179">think that like hey man how&amp;#39;d you make</text>
+    <text start="959.339" dur="3">up the name John Cena</text>
+    <text start="960.779" dur="2.941">I was like no dude I would have made up</text>
+    <text start="962.339" dur="2.94">like dick hammerbush or something cool</text>
+    <text start="963.72" dur="4.09">like that</text>
+    <text start="965.279" dur="4.081">camera or something I don&amp;#39;t know</text>
+    <text start="967.81" dur="3.35">[Applause]</text>
+    <text start="969.36" dur="3.839">from there no one&amp;#39;s letting you go out</text>
+    <text start="971.16" dur="4.08">with</text>
+    <text start="973.199" dur="4.08">I would but uh they actually think that</text>
+    <text start="975.24" dur="4.02">John Cena is a gimmick name but no</text>
+    <text start="977.279" dur="4.62">that&amp;#39;s actually through all the the</text>
+    <text start="979.26" dur="4.5">presentation that is WWE I&amp;#39;m stuck with</text>
+    <text start="981.899" dur="4.201">you wrestling fan Jimmy I used to love</text>
+    <text start="983.76" dur="4.199">wrestling uh when we were much younger</text>
+    <text start="986.1" dur="4.08">about the same time as Transformers back</text>
+    <text start="987.959" dur="3.961">in the day we had big daddy</text>
+    <text start="990.18" dur="4.399">yeah the giant haystack</text>
+    <text start="991.92" dur="4.919">[Applause]</text>
+    <text start="994.579" dur="5.801">no I used to love it I thought it was</text>
+    <text start="996.839" dur="6.06">just fantastic by the way I&amp;#39;m John Cena</text>
+    <text start="1000.38" dur="5.94">that is awesome names the ultimate</text>
+    <text start="1002.899" dur="5.281">drooler or like nothing and dresses like</text>
+    <text start="1006.32" dur="4.139">to have uh signature moves and things</text>
+    <text start="1008.18" dur="3.779">yeah and one of yours is the you can&amp;#39;t</text>
+    <text start="1010.459" dur="2.94">see me but that&amp;#39;s correct is that true</text>
+    <text start="1011.959" dur="3.481">that came out of your family somehow</text>
+    <text start="1013.399" dur="4.5">yeah I was dared to do it so I was</text>
+    <text start="1015.44" dur="4.079">actually making the music for my own</text>
+    <text start="1017.899" dur="3.12">theme song that you just so heard and</text>
+    <text start="1019.519" dur="4.501">finally serenaded me to thank you very</text>
+    <text start="1021.019" dur="5.521">much uh and we played it for my brother</text>
+    <text start="1024.02" dur="5.76">and the first time he heard it this was</text>
+    <text start="1026.54" dur="5.639">uh the the 50 cents crew had a really</text>
+    <text start="1029.78" dur="3.84">popular song called in the club and he</text>
+    <text start="1032.179" dur="3">heard it the first time and instead of</text>
+    <text start="1033.62" dur="2.939">dancing like he was our litmus test to</text>
+    <text start="1035.179" dur="4.88">see what songs were good what songs are</text>
+    <text start="1036.559" dur="3.5">bad he did this</text>
+    <text start="1040.819" dur="3.061">and I&amp;#39;m like dude what are you doing</text>
+    <text start="1042.5" dur="3.179">he&amp;#39;s like no everybody does this man</text>
+    <text start="1043.88" dur="4.679">everybody does this and I guess this is</text>
+    <text start="1045.679" dur="4.441">from 50 cents video and he&amp;#39;s like you</text>
+    <text start="1048.559" dur="2.881">won&amp;#39;t do it on TV</text>
+    <text start="1050.12" dur="3.059">what the hell do I Gotta Lose am I going</text>
+    <text start="1051.44" dur="5.3">to fire me of course I&amp;#39;ll do it on TV</text>
+    <text start="1053.179" dur="7.701">but instead of doing this I did this</text>
+    <text start="1056.74" dur="7.24">and now for 15 years</text>
+    <text start="1060.88" dur="5.34">because of a dare</text>
+    <text start="1063.98" dur="4.98">I&amp;#39;ve been doing this</text>
+    <text start="1066.22" dur="4.839">and I&amp;#39;ll do you one better people</text>
+    <text start="1068.96" dur="4.44">actually think I&amp;#39;m invisible there will</text>
+    <text start="1071.059" dur="3.661">be people to look at this couch and be</text>
+    <text start="1073.4" dur="3.86">like why 
+is there nobody next to</text>
+    <text start="1074.72" dur="2.54">McConaughey</text>
+    <text start="1077.299" dur="3.901">and John Cena would be there but we</text>
+    <text start="1078.679" dur="5.941">can&amp;#39;t see him</text>
+    <text start="1081.2" dur="6.32">so you never know you remember Hacksaw</text>
+    <text start="1084.62" dur="6.14">Jim Douglas King Kong bunny</text>
+    <text start="1087.52" dur="5.62">care Von eriks and carry the cloth</text>
+    <text start="1090.76" dur="3.82">I got kicked out of first time I&amp;#39;m</text>
+    <text start="1093.14" dur="3.72">talking Texas wrestling I get kicked out</text>
+    <text start="1094.58" dur="4.62">of her Coliseum in Shreveport for</text>
+    <text start="1096.86" dur="3.8">pelting scandar Akbar the bag of</text>
+    <text start="1099.2" dur="3.9">tomatoes</text>
+    <text start="1100.66" dur="4.899">skandar Akbar was a man dressed as a</text>
+    <text start="1103.1" dur="5.04">Sheik that used to throw fire yes and he</text>
+    <text start="1105.559" dur="4.5">managed King Kong Bundy who was like 484</text>
+    <text start="1108.14" dur="4.68">pounds and remember there&amp;#39;s missing</text>
+    <text start="1110.059" dur="4.561">Lanes from Parts unknowns that are the</text>
+    <text start="1112.82" dur="4.5">green face spit green mystery they sound</text>
+    <text start="1114.62" dur="6.86">really good good stuff yeah entertaining</text>
+    <text start="1117.32" dur="4.16">it is so much fun and I&amp;#39;m John Cena</text>
+    <text start="1121.6" dur="4.72">[Music]</text>
+    <text start="1123.4" dur="5.019">hello hi what&amp;#39;s your name uh James James</text>
+    <text start="1126.32" dur="4.08">lovely James and what do you do I&amp;#39;m a</text>
+    <text start="1128.419" dur="3.841">civil servant a civil servant lovely in</text>
+    <text start="1130.4" dur="3.659">London here uh yes in London are you</text>
+    <text start="1132.26" dur="3.18">from the London area uh no I live in</text>
+    <text start="1134.059" dur="4.74">London but I&amp;#39;m originally from um</text>
+    <text start="1135.44" dur="5.46">Suffolk oh oh yeah it&amp;#39;s a Suffolk</text>
+    <text start="1138.799" dur="4.321">massive 
+yeah</text>
+    <text start="1140.9" dur="5.22">is he mentioned in the song probably</text>
+    <text start="1143.12" dur="6.24">yeah what what school did you go to</text>
+    <text start="1146.12" dur="5.64">um so I went to brandiston oh sweet yeah</text>
+    <text start="1149.36" dur="7.22">I went to Primary School yeah oh okay</text>
+    <text start="1151.76" dur="4.82">did we know each other yeah did we</text>
+    <text start="1156.73" dur="2.13">[Applause]</text>
+    <text start="1156.86" dur="2">think</text>
+    <text start="1160.6" dur="7.86">James hello yeah James yes me that&amp;#39;s the</text>
+    <text start="1165.14" dur="7.88">one what the [ __ ]</text>
+    <text start="1168.46" dur="4.56">do you know it&amp;#39;s my best mate growing up</text>
+    <text start="1173.84" dur="3.36">and now you&amp;#39;re talking to me on a</text>
+    <text start="1175.46" dur="4.2">monitor</text>
+    <text start="1177.2" dur="3.54">specs and he&amp;#39;s like oh my God no can we</text>
+    <text start="1179.66" dur="2.639">not flip him and just get him out of</text>
+    <text start="1180.74" dur="3.299">here</text>
+    <text start="1182.299" dur="5.601">do you have a story or do you well yeah</text>
+    <text start="1184.039" dur="3.861">I did but please let it be about Edge</text>
+    <text start="1189.14" dur="3.38">we&amp;#39;ll flip you and then</text>
+    <text start="1190.72" dur="6.64">Okay</text>
+    <text start="1192.52" dur="6.46">cool so um yeah this is so randomly</text>
+    <text start="1197.36" dur="2.699">it&amp;#39;s really weird 
+um yeah when we were</text>
+    <text start="1198.98" dur="2.04">younger Ed used to come around to my</text>
+    <text start="1200.059" dur="2.341">house and yeah like you&amp;#39;re saying we</text>
+    <text start="1201.02" dur="2.88">used to be quite good mates</text>
+    <text start="1202.4" dur="3.72">um and I remember one time</text>
+    <text start="1203.9" dur="3.96">um one time he was coming around for tea</text>
+    <text start="1206.12" dur="3.179">um and I forgotten to tell mum who&amp;#39;s a</text>
+    <text start="1207.86" dur="3.66">vegetarian</text>
+    <text start="1209.299" dur="3.901">um at that point anyway and um so mum</text>
+    <text start="1211.52" dur="2.88">cooked I think the sausage and mashed</text>
+    <text start="1213.2" dur="2.82">for tea</text>
+    <text start="1214.4" dur="2.7">um and Ed said you know after the meal</text>
+    <text start="1216.02" dur="2.519">these are the best sausages I&amp;#39;ve ever</text>
+    <text start="1217.1" dur="3.78">tasted you know where did you get them</text>
+    <text start="1218.539" dur="3.601">from and Mum had to lie because 
+she had</text>
+    <text start="1220.88" dur="4.5">no clue</text>
+    <text start="1222.14" dur="5.22">um and so yeah 16 years later I&amp;#39;m really</text>
+    <text start="1225.38" dur="2.94">sorry first time I ever had 
+me and also</text>
+    <text start="1227.36" dur="2.16">the first time I ever watched The</text>
+    <text start="1228.32" dur="2.42">Simpsons episode was around your house</text>
+    <text start="1229.52" dur="3.36">as well</text>
+    <text start="1230.74" dur="4.42">okay well done we&amp;#39;re going to flip you</text>
+    <text start="1232.88" dur="4.76">now and then uh we could be reunited</text>
+    <text start="1235.16" dur="2.48">backstage</text>
+    <text start="1240.09" dur="9.19">[Applause]</text>
+    <text start="1245.74" dur="3.54">surprise surprise</text>
+    <text start="1254.36" dur="3.9">me</text>
+    <text start="1255.42" dur="3.58">[Applause]</text>
+    <text start="1258.26" dur="3.84">um</text>
+    <text start="1259" dur="4.299">have a seat have a seat dude</text>
+    <text start="1262.1" dur="3.18">yeah</text>
+    <text start="1263.299" dur="5.041">one of the things you can do is you can</text>
+    <text start="1265.28" dur="5.759">conjure up uh people&amp;#39;s fears yes okay</text>
+    <text start="1268.34" dur="5.28">yes so you you&amp;#39;re afraid of quite basic</text>
+    <text start="1271.039" dur="4.921">things I&amp;#39;m afraid of like most things</text>
+    <text start="1273.62" dur="3.78">like anything high risk I&amp;#39;m terrified of</text>
+    <text start="1275.96" dur="4.02">but those are rational things okay</text>
+    <text start="1277.4" dur="3.779">irrational is big spiders because but</text>
+    <text start="1279.98" dur="3.54">they actually</text>
+    <text start="1281.179" dur="4.86">um I become paralyzed when I when I have</text>
+    <text start="1283.52" dur="5.159">a spider in my room really yeah I like</text>
+    <text start="1286.039" dur="6.12">wish I were tougher than that but I&amp;#39;m</text>
+    <text start="1288.679" dur="4.86">not okay now walk or flow were you</text>
+    <text start="1292.159" dur="4.081">serious when you told us what your fear</text>
+    <text start="1293.539" dur="4.321">is I mean it is it&amp;#39;s a good fear it&amp;#39;s I</text>
+    <text start="1296.24" dur="4.319">think it&amp;#39;s a founded fear I think it&amp;#39;s a</text>
+    <text start="1297.86" dur="4.62">founded fear it is tell us what it is</text>
+    <text start="1300.559" dur="3.291">um I have a phobia being chased around</text>
+    <text start="1302.48" dur="7.76">with poop on a stick</text>
+    <text start="1303.85" dur="9.569">[Laughter]</text>
+    <text start="1310.24" dur="5.439">I&amp;#39;d say we&amp;#39;ve all got that fear</text>
+    <text start="1313.419" dur="3.361">there&amp;#39;s another one that goes not a lot</text>
+    <text start="1315.679" dur="5.301">for that</text>
+    <text start="1316.78" dur="4.2">it started when I was a kid</text>
+    <text start="1321.4" dur="5.56">it was just weird parenting</text>
+    <text start="1324.46" dur="4.959">for some reason kids thought it was</text>
+    <text start="1326.96" dur="4.56">funny to stick a stick in dog poop and</text>
+    <text start="1329.419" dur="5.221">Chase each other around with it</text>
+    <text start="1331.52" dur="5.279">but that scared the crap out of me</text>
+    <text start="1334.64" dur="4.99">because of the cleanliness problem of it</text>
+    <text start="1336.799" dur="8.521">no spreading terms</text>
+    <text start="1339.63" dur="7.909">[Laughter]</text>
+    <text start="1345.32" dur="5.04">granted though yours is brilliantly</text>
+    <text start="1347.539" dur="6.061">specific and I think without knowing it</text>
+    <text start="1350.36" dur="5.16">I think we probably all share 
+it we may</text>
+    <text start="1353.6" dur="3.3">I don&amp;#39;t know I I didn&amp;#39;t have the the</text>
+    <text start="1355.52" dur="3.24">fear when I was younger because we&amp;#39;ve</text>
+    <text start="1356.9" dur="3.899">all we all go through this but it&amp;#39;s when</text>
+    <text start="1358.76" dur="3.419">a little child and I&amp;#39;m the oldest of</text>
+    <text start="1360.799" dur="3.721">seven kids and I got a lot of little</text>
+    <text start="1362.179" dur="4.561">Rugrats running around and these little</text>
+    <text start="1364.52" dur="3.6">roaches start losing their teeth and</text>
+    <text start="1366.74" dur="2.88">they get a little Wiggly and they like</text>
+    <text start="1368.12" dur="3.12">to show me like this little dagger</text>
+    <text start="1369.62" dur="2.82">flipping in and out of their mouth and</text>
+    <text start="1371.24" dur="2.64">like look up does everybody want to pull</text>
+    <text start="1372.44" dur="3.3">this thing out I&amp;#39;m like get out of here</text>
+    <text start="1373.88" dur="3.36">you&amp;#39;re freaking me out</text>
+    <text start="1375.74" dur="5.6">but don&amp;#39;t you think that is really</text>
+    <text start="1377.24" dur="4.1">freaky it&amp;#39;s like her thumb</text>
+    <text start="1384.039" dur="3.281">it just really kind of grosses me out</text>
+    <text start="1386.059" dur="2.941">the cutest little thing on the planet</text>
+    <text start="1387.32" dur="3.239">starts to do like the creepiest thing in</text>
+    <text start="1389" dur="3.36">the planet and I&amp;#39;m like get out of here</text>
+    <text start="1390.559" dur="3.721">it&amp;#39;s like here tie the string to my</text>
+    <text start="1392.36" dur="4.52">thing to the 
+doorknob get out of here</text>
+    <text start="1394.28" dur="2.6">creep</text>
+    <text start="1397.299" dur="5.281">animals</text>
+    <text start="1399.82" dur="4.96">that&amp;#39;s now</text>
+    <text start="1402.58" dur="4.479">little ones running around flipping</text>
+    <text start="1404.78" dur="3.72">their little fake teeth falling out look</text>
+    <text start="1407.059" dur="2.761">we all have this you know when you you</text>
+    <text start="1408.5" dur="2.64">have the dreams your teeth pull out I</text>
+    <text start="1409.82" dur="6">don&amp;#39;t know what it means anybody what it</text>
+    <text start="1411.14" dur="6.659">means we get bigger ones no you had a</text>
+    <text start="1415.82" dur="3.78">bad dreams am I the only the only one</text>
+    <text start="1417.799" dur="4.101">that&amp;#39;s bad</text>
+    <text start="1419.6" dur="5.459">I haven&amp;#39;t just had that dream too yeah</text>
+    <text start="1421.9" dur="6.159">not me what does that mean I think I</text>
+    <text start="1425.059" dur="4.5">don&amp;#39;t know share of money I think I</text>
+    <text start="1428.059" dur="3.801">think that&amp;#39;s what they do who has fear</text>
+    <text start="1429.559" dur="2.301">of money</text>
+    <text start="1431.919" dur="4.381">maybe I&amp;#39;m just afraid of my teeth</text>
+    <text start="1433.94" dur="7.94">[ __ ] falling out</text>
+    <text start="1436.3" dur="7.739">[Applause]</text>
+    <text start="1441.88" dur="5.26">sorry</text>
+    <text start="1444.039" dur="5.441">what are you afraid of well I was gonna</text>
+    <text start="1447.14" dur="5.6">go with flying but I think I&amp;#39;ll go with</text>
+    <text start="1449.48" dur="3.26">um girls over 12.</text>
+    <text start="1453.65" dur="12.98">[Applause]</text>
+    <text start="1463.91" dur="3.21">[Laughter]</text>
+    <text start="1466.63" dur="3.35">[Applause]</text>
+    <text start="1467.12" dur="9.08">[Laughter]</text>
+    <text start="1469.98" dur="8.079">[Applause]</text>
+    <text start="1476.2" dur="5.94">I</text>
+    <text start="1478.059" dur="4.081">don&amp;#39;t know what came over here</text>
+    <text start="1486.28" dur="4.98">the last minute of my life I wouldn&amp;#39;t</text>
+    <text start="1488.48" dur="2.78">have predicted that</text>
+    <text start="1491.539" dur="4.921">how was it Mark Ruffalo you&amp;#39;re not going</text>
+    <text start="1494" dur="6.08">to believe what he said to me</text>
+    <text start="1496.46" dur="3.62">he was bang on the money</text>
+    <text start="1502.24" dur="6.7">perceptive man</text>
+    <text start="1504.76" dur="5.7">it was the Dora poem don&amp;#39;t try and</text>
+    <text start="1508.94" dur="3.84">justify it</text>
+    <text start="1510.46" dur="5.099">do you know what I&amp;#39;ve always hated the</text>
+    <text start="1512.78" dur="2.779">hulky [ __ ]</text>
+    <text start="1515.98" dur="5.38">don&amp;#39;t make him angry yeah you would like</text>
+    <text start="1518.419" dur="5.161">me when I&amp;#39;m angry buffalo</text>
+    <text start="1521.36" dur="4.98">I my son said that to me the other day</text>
+    <text start="1523.58" dur="4.02">when he was mad at me what that you</text>
+    <text start="1526.34" dur="4.52">wouldn&amp;#39;t like him even I always hated</text>
+    <text start="1527.6" dur="5.4">the Hulk I think he&amp;#39;s [ __ ]</text>
+    <text start="1530.86" dur="5.14">you just told him that he was afraid of</text>
+    <text start="1533" dur="6.08">girls over 12.</text>
+    <text start="1536" dur="3.08">for him that would be okay</text>
+    <text start="1540.26" dur="4.32">hi what&amp;#39;s your name my name&amp;#39;s Sebastian</text>
+    <text start="1542.539" dur="4.321">Sebastian and where are you from I&amp;#39;m</text>
+    <text start="1544.58" dur="3.839">from Newcastle Newcastle okay do you</text>
+    <text start="1546.86" dur="3.24">live there or here uh I live in</text>
+    <text start="1548.419" dur="3.841">Newcastle yeah okay all right off you go</text>
+    <text start="1550.1" dur="3.059">with the story Sebastian well many moons</text>
+    <text start="1552.26" dur="3.12">ago</text>
+    <text start="1553.159" dur="3.541">um uh I actually went to school in</text>
+    <text start="1555.38" dur="4.74">Newcastle</text>
+    <text start="1556.7" dur="5.88">um and there was a disco coming up that</text>
+    <text start="1560.12" dur="4.26">was a really popular girl at school</text>
+    <text start="1562.58" dur="4.32">um usual sort of scenario all the you</text>
+    <text start="1564.38" dur="4.26">know all the guys after it</text>
+    <text start="1566.9" dur="3.72">um I sort of like waited to the last</text>
+    <text start="1568.64" dur="4.019">moment last couple of days</text>
+    <text start="1570.62" dur="3.84">um and asked a girl one of this popular</text>
+    <text start="1572.659" dur="2.581">girl question if you&amp;#39;d like to go with</text>
+    <text start="1574.46" dur="2.459">me</text>
+    <text start="1575.24" dur="3.72">and she said yes this was literally I</text>
+    <text start="1576.919" dur="4.74">think the day before the Disco</text>
+    <text start="1578.96" dur="5.4">um lo and behold the turns out that she</text>
+    <text start="1581.659" dur="4.5">was actually gonna go with somebody else</text>
+    <text start="1584.36" dur="5.4">um and that other person was actually</text>
+    <text start="1586.159" dur="6.14">Charlie Sebastian lippiat</text>
+    <text start="1589.76" dur="2.539">come on</text>
+    <text start="1592.79" dur="4.529">[Applause]</text>
+    <text start="1599" dur="5.24">come to two people</text>
+    <text start="1601.539" dur="6">Rachel Gould</text>
+    <text start="1604.24" dur="7.559">they&amp;#39;re very same yes you know who it is</text>
+    <text start="1607.539" dur="4.26">wow you know at the time</text>
+    <text start="1615.82" dur="6.94">and did you end up marrying Rachel Gould</text>
+    <text start="1618.26" dur="5.94">uh no not yet no okay it&amp;#39;s still time it</text>
+    <text start="1622.76" dur="3.62">all happened to have a sword with you do</text>
+    <text start="1624.2" dur="2.18">you</text>
+    <text start="1626.559" dur="4.12">you you could you could have Revenge if</text>
+    <text start="1628.88" dur="4.46">you want to do you want to</text>
+    <text start="1630.679" dur="2.661">there you go</text>
+    <text start="1635.96" dur="4.28">if we thought we&amp;#39;d seen you play</text>
+    <text start="1637.279" dur="5.88">Everything But first which</text>
+    <text start="1640.24" dur="5.74">mostly [ __ ]</text>
+    <text start="1643.159" dur="4.441">yeah my first witch but I hear you went</text>
+    <text start="1645.98" dur="4.439">through a phase you got offered a lot of</text>
+    <text start="1647.6" dur="6.72">witches when I was 40 when I turned 40 I</text>
+    <text start="1650.419" dur="6.801">was offered three which is in one year</text>
+    <text start="1654.32" dur="5.52">and it was sending me a signal I felt</text>
+    <text start="1657.22" dur="5.079">about Hollywood and how they felt about</text>
+    <text start="1659.84" dur="5.4">people turning 40.</text>
+    <text start="1662.299" dur="6.061">so I felt uh bad and I and it made me</text>
+    <text start="1665.24" dur="5.58">sort of I had like a little my back up</text>
+    <text start="1668.36" dur="4.74">you 
+know and so no I didn&amp;#39;t want to play</text>
+    <text start="1670.82" dur="6">them so A lot&amp;#39;s changed in the last five</text>
+    <text start="1673.1" dur="3.72">years for you good</text>
+    <text start="1679.159" dur="2.841">oh</text>
+    <text start="1682.039" dur="2.061">yeah</text>
+    <text start="1684.56" dur="5.599">[Applause]</text>
+    <text start="1687.17" dur="6.03">[Laughter]</text>
+    <text start="1690.159" dur="5.52">that scene in episode one The Doctors</text>
+    <text start="1693.2" dur="4.56">thing yeah did that really happen yeah</text>
+    <text start="1695.679" dur="4.541">my mum will kill me for telling this</text>
+    <text start="1697.76" dur="4.2">because it was my uh uh our family</text>
+    <text start="1700.22" dur="4.38">doctors and I</text>
+    <text start="1701.96" dur="4.74">he&amp;#39;d been our family my doctor since I</text>
+    <text start="1704.6" dur="4.319">was a child and but I went to as an</text>
+    <text start="1706.7" dur="4.8">adult because</text>
+    <text start="1708.919" dur="4.62">I was there was something wrong with my</text>
+    <text start="1711.5" dur="4.2">bum</text>
+    <text start="1713.539" dur="6.38">why when you said bum you looked at me</text>
+    <text start="1715.7" dur="4.219">directly in the eyes I&amp;#39;m sorry</text>
+    <text start="1723.32" dur="3.359">there was something but there was</text>
+    <text start="1724.94" dur="4.219">something wrong with my</text>
+    <text start="1726.679" dur="2.48">bun</text>
+    <text start="1732.82" dur="5.14">and I was a I said there&amp;#39;s this thing</text>
+    <text start="1735.559" dur="6.301">wrong with my bum and he went okay and I</text>
+    <text start="1737.96" dur="6.78">went so what&amp;#39;d you say he goes well</text>
+    <text start="1741.86" dur="4.04">it&amp;#39;ll probably be all right</text>
+    <text start="1744.74" dur="4.14">I</text>
+    <text start="1745.9" dur="5.379">would really like it I&amp;#39;d like you to</text>
+    <text start="1748.88" dur="4.919">just if you could make me feel better</text>
+    <text start="1751.279" dur="4.741">about if I feel better that it will be</text>
+    <text start="1753.799" dur="6.24">all right and he went it it&amp;#39;ll probably</text>
+    <text start="1756.02" dur="6.06">clear itself up and I said yeah but</text>
+    <text start="1760.039" dur="4.201">is there any way I could be sure when he</text>
+    <text start="1762.08" dur="3.54">went ah</text>
+    <text start="1764.24" dur="3.799">you want me to put my finger up there</text>
+    <text start="1765.62" dur="2.419">don&amp;#39;t you</text>
+    <text start="1772.159" dur="2.781">magically</text>
+    <text start="1777.76" dur="4.539">the other I think maybe maybe there&amp;#39;s a</text>
+    <text start="1780.799" dur="4.141">reason but what is the reason that you</text>
+    <text start="1782.299" dur="5.76">film it in the school you used to teach</text>
+    <text start="1784.94" dur="4.26">in I think it&amp;#39;s therapy probably I&amp;#39;m in</text>
+    <text start="1788.059" dur="2.521">the actual classroom where I talk</text>
+    <text start="1789.2" dur="2.699">because I was just to keep the theme</text>
+    <text start="1790.58" dur="4.02">going a real teacher for a long time</text>
+    <text start="1791.899" dur="3.9">yeah I talked for yeah but six years in</text>
+    <text start="1794.6" dur="3.42">the school that we filming in the</text>
+    <text start="1795.799" dur="4.201">classroom that I&amp;#39;m going Madden and I</text>
+    <text start="1798.02" dur="4.32">that&amp;#39;s that&amp;#39;s real that was my classroom</text>
+    <text start="1800" dur="3.84">yeah but you did it for did you ever</text>
+    <text start="1802.34" dur="3.059">enjoy it was there ever a moment when</text>
+    <text start="1803.84" dur="4.28">you thought I like this I don&amp;#39;t know</text>
+    <text start="1805.399" dur="2.721">okay</text>
+    <text start="1809.299" dur="3">well I met some very nice people there</text>
+    <text start="1811.399" dur="2.28">and</text>
+    <text start="1812.299" dur="2.76">it was like you were nominated for</text>
+    <text start="1813.679" dur="3.74">Teacher of the Year weren&amp;#39;t you yes I</text>
+    <text start="1815.059" dur="2.36">was great</text>
+    <text start="1818.059" dur="4.921">yeah you know yes I&amp;#39;ve told this story</text>
+    <text start="1820.34" dur="4.439">many times but to teacher of the year is</text>
+    <text start="1822.98" dur="3.179">a very prestigious award that&amp;#39;s taken</text>
+    <text start="1824.779" dur="3.841">very seriously and rightly by the</text>
+    <text start="1826.159" dur="4.26">hard-working teaching community and my</text>
+    <text start="1828.62" dur="4.2">head teacher called me in and he was</text>
+    <text start="1830.419" dur="3.721">wetting himself laughing he couldn&amp;#39;t</text>
+    <text start="1832.82" dur="4.44">stop laughing for the first 10 minutes</text>
+    <text start="1834.14" dur="7.1">and he went I went what why have you</text>
+    <text start="1837.26" dur="3.98">called me here he goes you&amp;#39;ve been numb</text>
+    <text start="1842.36" dur="3">eliminated</text>
+    <text start="1849.5" dur="4.44">and I went oh okay and it was by a very</text>
+    <text start="1852.2" dur="4.44">sweet girl called Gemma I&amp;#39;ve humiliated</text>
+    <text start="1853.94" dur="4.5">many times and it&amp;#39;s a six-page document</text>
+    <text start="1856.64" dur="3.419">that people have to fill in for the</text>
+    <text start="1858.44" dur="4.8">reasons why you should be nominated for</text>
+    <text start="1860.059" dur="5.161">Teacher of the Year it was blank</text>
+    <text start="1863.24" dur="3.9">from one sentence that she&amp;#39;d written on</text>
+    <text start="1865.22" dur="3.36">it which was the reasons why you think</text>
+    <text start="1867.14" dur="3.48">he should be teacher of the year and</text>
+    <text start="1868.58" dur="4.26">she&amp;#39;s written he&amp;#39;s a well good laugh and</text>
+    <text start="1870.62" dur="3.539">he don&amp;#39;t make us do no work</text>
+    <text start="1872.84" dur="4.199">thank you</text>
+    <text start="1874.159" dur="5.101">your character&amp;#39;s name is Dr smolder</text>
+    <text start="1877.039" dur="4.981">bravestone yes and so all the characters</text>
+    <text start="1879.26" dur="4.98">have strengths so one of your strengths</text>
+    <text start="1882.02" dur="4.32">is the smolder an actual smolder yes it</text>
+    <text start="1884.24" dur="4.08">just takes over uh and I have no control</text>
+    <text start="1886.34" dur="4.319">of it and did you know you could smolder</text>
+    <text start="1888.32" dur="3.9">like did you kind of think yeah when you</text>
+    <text start="1890.659" dur="4.681">were doing you read it you got to go oh</text>
+    <text start="1892.22" dur="4.8">yeah I&amp;#39;ll do my smolder you know I take</text>
+    <text start="1895.34" dur="3.959">you is that it no it didn&amp;#39;t come yet oh</text>
+    <text start="1897.02" dur="4.08">okay okay that literally is where it</text>
+    <text start="1899.299" dur="3.061">came from that what you&amp;#39;re saying and</text>
+    <text start="1901.1" dur="2.88">this is why he looked at me because it&amp;#39;s</text>
+    <text start="1902.36" dur="5">so frustrating just go ahead tell the</text>
+    <text start="1903.98" dur="3.38">story about your stupid smoke</text>
+    <text start="1907.539" dur="3.701">it&amp;#39;s one of those things that you know</text>
+    <text start="1909.62" dur="3">as we&amp;#39;re developing the script and</text>
+    <text start="1911.24" dur="2.76">thinking well what could be a fun thing</text>
+    <text start="1912.62" dur="3.059">well what of a fun thing one of the fun</text>
+    <text start="1914" dur="3.48">things was he he has this ability to</text>
+    <text start="1915.679" dur="4.561">smolder and it just takes over him he</text>
+    <text start="1917.48" dur="5.22">has no control of it uh and uh and it&amp;#39;s</text>
+    <text start="1920.24" dur="5.22">just one of those things Graham that God</text>
+    <text start="1922.7" dur="5.099">delivered I signed for it and then</text>
+    <text start="1925.46" dur="4.14">just do it and everyone everyone loves</text>
+    <text start="1927.799" dur="3.5">it and everyone loves it except one</text>
+    <text start="1929.6" dur="3.72">individual</text>
+    <text start="1931.299" dur="4.421">everyone loves I&amp;#39;m gonna tell you what</text>
+    <text start="1933.32" dur="5.52">it is okay now we we are we are very</text>
+    <text start="1935.72" dur="5.4">close 
+we&amp;#39;re very close as friends and</text>
+    <text start="1938.84" dur="5.219">you know in this position he&amp;#39;s a</text>
+    <text start="1941.12" dur="5.88">producer on a film so sometimes I just</text>
+    <text start="1944.059" dur="5.461">bit my tongue so this idea came up from</text>
+    <text start="1947" dur="3.679">a producer like mentality oh you know</text>
+    <text start="1949.52" dur="4.46">what would be great for 
+this character</text>
+    <text start="1950.679" dur="5.62">if he&amp;#39;s smoldered and I was like what</text>
+    <text start="1953.98" dur="3.88">you know if he did a thing and I was</text>
+    <text start="1956.299" dur="4.681">like well that got to do with that being</text>
+    <text start="1957.86" dur="5.28">like in the game he&amp;#39;s like it&amp;#39;s a thing</text>
+    <text start="1960.98" dur="3.6">and he&amp;#39;s like and 
+then he&amp;#39;s brought him</text>
+    <text start="1963.14" dur="3.98">back he was like my mom used to do it to</text>
+    <text start="1964.58" dur="2.54">me when I was</text>
+    <text start="1967.96" dur="4.959">and that&amp;#39;s why we listen to him</text>
+    <text start="1970.72" dur="4.72">everything got tied back to Hawaii</text>
+    <text start="1972.919" dur="4.5">that&amp;#39;s how he did it Greg could we see a</text>
+    <text start="1975.44" dur="5.18">smaller can we see oh I&amp;#39;d be happy to</text>
+    <text start="1977.419" dur="3.201">Great sit back for a second</text>
+    <text start="1981.679" dur="4.22">yeah</text>
+    <text start="1982.899" dur="3">yeah</text>
+    <text start="1987.279" dur="4.721">all right here we go can we have a</text>
+    <text start="1990.62" dur="3.899">little music maybe something that&amp;#39;s a</text>
+    <text start="1992" dur="6.32">little ominous okay here we go wow yes</text>
+    <text start="1994.519" dur="3.801">okay okay here we go you can do it to me</text>
+    <text start="1998.62" dur="3.659">get ready here we go</text>
+    <text start="2004.63" dur="3.219">[Music]</text>
+    <text start="2009.82" dur="9.09">[Laughter]</text>
+    <text start="2015.76" dur="3.15">[Music]</text>
+    <text start="2021.9" dur="6.82">[Music]</text>
+    <text start="2024.659" dur="7.12">beautiful very good</text>
+    <text start="2028.72" dur="8.6">thank you thank you so much that</text>
+    <text start="2031.779" dur="5.541">sustains smoldering it&amp;#39;s very impressive</text>
+    <text start="2038.3" dur="4.78">[Applause]</text>
+    <text start="2039.779" dur="3.301">is pregnant</text>
+    <text start="2043.5" dur="3.36">having a baby</text>
+    <text start="2049.32" dur="5.079">Rebels Pebble</text>
+    <text start="2052.32" dur="3.519">it&amp;#39;s a little wrong that&amp;#39;s good yeah</text>
+    <text start="2054.399" dur="3.141">it&amp;#39;s a little rock that&amp;#39;s why you are</text>
+    <text start="2055.839" dur="4.08">who you are</text>
+    <text start="2057.54" dur="3.579">Heaven obviously you&amp;#39;re like not just a</text>
+    <text start="2059.919" dur="3.061">stand-up you&amp;#39;re like a stand-up</text>
+    <text start="2061.119" dur="3.37">Superstar you sell out Arenas all over</text>
+    <text start="2062.98" dur="4.589">the world the best of our time</text>
+    <text start="2064.489" dur="3.08">[Applause]</text>
+    <text start="2069.78" dur="7">but what&amp;#39;s nice to know is it wasn&amp;#39;t</text>
+    <text start="2073.78" dur="4.319">always like that I don&amp;#39;t know like what</text>
+    <text start="2076.78" dur="3.24">was it what did you perform it you</text>
+    <text start="2078.099" dur="3.841">performed at a seafood festival I mean</text>
+    <text start="2080.02" dur="4.04">which which [ __ ] show you want to know</text>
+    <text start="2081.94" dur="2.12">about</text>
+    <text start="2084.599" dur="5.76">I</text>
+    <text start="2086.339" dur="4.02">had a crab fest</text>
+    <text start="2091.24" dur="4.02">what is that in the beginning of the</text>
+    <text start="2092.98" dur="5.04">stand of Comedy you&amp;#39;re not you&amp;#39;re not</text>
+    <text start="2095.26" dur="4.8">performing in in luxury you know venues</text>
+    <text start="2098.02" dur="3.66">wherever they feel that they can build</text>
+    <text start="2100.06" dur="5.42">the stage and make money is where you&amp;#39;re</text>
+    <text start="2101.68" dur="3.8">going so there was a crab fest</text>
+    <text start="2107.76" dur="5.04">comedian Talent I was like all right</text>
+    <text start="2111.04" dur="3.84">well you know I&amp;#39;m available</text>
+    <text start="2112.8" dur="3.52">I don&amp;#39;t know if you guys have ever tried</text>
+    <text start="2114.88" dur="3.02">to tell a joke about people cracking</text>
+    <text start="2116.32" dur="4.759">crabs</text>
+    <text start="2117.9" dur="5.86">it&amp;#39;s not the best environment</text>
+    <text start="2121.079" dur="6.461">literally the frustration that comes</text>
+    <text start="2123.76" dur="6.24">from not being able to open a crabs</text>
+    <text start="2127.54" dur="5.52">funny at the same time the stuff that</text>
+    <text start="2130" dur="5.099">you hear I remember hearing a woman an</text>
+    <text start="2133.06" dur="4.68">older lady who was like she was cracking</text>
+    <text start="2135.099" dur="4.881">cracks because this is how you crack</text>
+    <text start="2137.74" dur="2.24">crack</text>
+    <text start="2140.33" dur="3.95">[Music]</text>
+    <text start="2141.96" dur="4.72">I tell a joke and the joke doesn&amp;#39;t work</text>
+    <text start="2144.28" dur="2.85">and I remember this lady just going oh</text>
+    <text start="2146.68" dur="5.58">no</text>
+    <text start="2147.13" dur="5.13">[Laughter]</text>
+    <text start="2154.5" dur="5.7">the disappointment</text>
+    <text start="2157.98" dur="6.04">from her voice</text>
+    <text start="2160.2" dur="7.54">she said baby it was like oh no baby</text>
+    <text start="2164.02" dur="6.66">as if I have made a mistake with my</text>
+    <text start="2167.74" dur="5.339">choice of life like I&amp;#39;m not doing it</text>
+    <text start="2170.68" dur="4.14">wrong I I mean you know look the the the</text>
+    <text start="2173.079" dur="3.841">the hardship that I went through has</text>
+    <text start="2174.82" dur="4.5">helped helped build me into the person I</text>
+    <text start="2176.92" dur="4.02">am today where I can take so much but</text>
+    <text start="2179.32" dur="5.279">I&amp;#39;ve been through it all I was I was</text>
+    <text start="2180.94" dur="6.679">hitting the face with a buffalo wing</text>
+    <text start="2184.599" dur="5.281">I performed don&amp;#39;t perform around food</text>
+    <text start="2187.619" dur="3.72">let me go to my shows now there&amp;#39;s no</text>
+    <text start="2189.88" dur="4.32">food</text>
+    <text start="2191.339" dur="5.561">uh it was it was a it was actually a</text>
+    <text start="2194.2" dur="5.58">male strip club that they shut down for</text>
+    <text start="2196.9" dur="4.8">comedy for the first half so it was like</text>
+    <text start="2199.78" dur="4.14">it was a bunch of it was ladies in there</text>
+    <text start="2201.7" dur="3.78">and you know it&amp;#39;s just supposed to be us</text>
+    <text start="2203.92" dur="4.32">performing for these women that were</text>
+    <text start="2205.48" dur="3.96">riled up first thing I got on stage when</text>
+    <text start="2208.24" dur="3.89">they introduced me and this lady was</text>
+    <text start="2209.44" dur="4.86">like pull it out I said hey</text>
+    <text start="2212.13" dur="4.87">[Applause]</text>
+    <text start="2214.3" dur="5.16">that&amp;#39;s not me I&amp;#39;m not here</text>
+    <text start="2217" dur="5.64">to entertain these jokes</text>
+    <text start="2219.46" dur="5.94">I know who&amp;#39;s got kids I started trying</text>
+    <text start="2222.64" dur="4.08">to merge into kid material and there&amp;#39;s</text>
+    <text start="2225.4" dur="2.58">one dude from the back I just remember</text>
+    <text start="2226.72" dur="3.78">this dude from the back he was like</text>
+    <text start="2227.98" dur="5.48">that&amp;#39;s enough and he&amp;#39;s just threw a</text>
+    <text start="2230.5" dur="2.96">buffalo wing at me</text>
+    <text start="2236.64" dur="6.04">right here buffalo sauce is hot sauce</text>
+    <text start="2240.82" dur="3.299">I assumed that it was a woman with a</text>
+    <text start="2242.68" dur="3.659">deep voice so I was like who threw it</text>
+    <text start="2244.119" dur="3.661">who threw it because at the end of the</text>
+    <text start="2246.339" dur="2.721">day I&amp;#39;m a man I&amp;#39;m a man first don&amp;#39;t</text>
+    <text start="2247.78" dur="3.9">disrespect me</text>
+    <text start="2249.06" dur="4.9">he stood up and he was like I did it and</text>
+    <text start="2251.68" dur="4">I 
+I contemplated just taking my clothes</text>
+    <text start="2253.96" dur="5.3">off I was like</text>
+    <text start="2255.68" dur="3.58">[Applause]</text>
+    <text start="2260.38" dur="4.92">yeah well I I collect um stuff from</text>
+    <text start="2262.9" dur="3.9">movies uh that some of the movies I&amp;#39;ve</text>
+    <text start="2265.3" dur="5.039">done but really mainly Star Trek</text>
+    <text start="2266.8" dur="5.84">memorabilia because I love Star Trek</text>
+    <text start="2270.339" dur="4.441">nerd</text>
+    <text start="2272.64" dur="4.24">no I&amp;#39;ve never been in a Star Trek but I</text>
+    <text start="2274.78" dur="3.839">love the Original Series so I have like</text>
+    <text start="2276.88" dur="5.479">I have the Gorn head from the original</text>
+    <text start="2278.619" dur="3.74">series from the episode Arena</text>
+    <text start="2294.54" dur="4.18">what the Gorn is the Gorn from Star Trek</text>
+    <text start="2297.22" dur="3.3">we&amp;#39;re going to give you the golden head</text>
+    <text start="2298.72" dur="3.119">oh wow okay do you have any of the</text>
+    <text start="2300.52" dur="3.9">boulders do any of the boulders I don&amp;#39;t</text>
+    <text start="2301.839" dur="4.371">have any of the light Boulders no but I</text>
+    <text start="2304.42" dur="3.14">have Spock&amp;#39;s ears from yeah</text>
+    <text start="2306.21" dur="3.21">[Applause]</text>
+    <text start="2307.56" dur="4.96">yeah</text>
+    <text start="2309.42" dur="4.659">very good but on bridesmaids you did 
+do</text>
+    <text start="2312.52" dur="2.94">a lot of kind of proper bonding on</text>
+    <text start="2314.079" dur="4.921">bridesmaids didn&amp;#39;t you didn&amp;#39;t you like</text>
+    <text start="2315.46" dur="6.119">Party nights and stuff we we did a pre</text>
+    <text start="2319" dur="5.22">um my co-writer Annie and I had the idea</text>
+    <text start="2321.579" dur="4.141">to get all the girls together plus the</text>
+    <text start="2324.22" dur="3.899">script supervisor wardrobe just all like</text>
+    <text start="2325.72" dur="5.16">the women on the film to buy 40. there</text>
+    <text start="2328.119" dur="5.96">were a lot of people 40 women yeah</text>
+    <text start="2330.88" dur="3.199">me is research</text>
+    <text start="2335.26" dur="6.02">we went to a gentleman&amp;#39;s entertainment</text>
+    <text start="2338.02" dur="3.26">yeah parlor</text>
+    <text start="2342.22" dur="5.66">strip club well guys yeah okay so we got</text>
+    <text start="2345.82" dur="6.299">in a we got a party bus</text>
+    <text start="2347.88" dur="6.52">es a lot of booze weird poles which I</text>
+    <text start="2352.119" dur="3.96">was like did it have the Disco lights in</text>
+    <text start="2354.4" dur="5.4">the Box oh yeah oh fabulous yeah and</text>
+    <text start="2356.079" dur="5.401">then we went to we went to a strip club</text>
+    <text start="2359.8" dur="3.68">um and</text>
+    <text start="2361.48" dur="2">um</text>
+    <text start="2364.079" dur="3.701">there was like a backdraft yeah it</text>
+    <text start="2366.579" dur="3.421">wasn&amp;#39;t that it would all come out in</text>
+    <text start="2367.78" dur="4.14">like fireman stuff and then it was like</text>
+    <text start="2370" dur="3.3">right like everything had the same theme</text>
+    <text start="2371.92" dur="4.62">and everything involved it seemed like</text>
+    <text start="2373.3" dur="6.319">every number had a duster everybody had</text>
+    <text start="2376.54" dur="5.94">a long trench coat a lot of equipment</text>
+    <text start="2379.619" dur="5.22">do you remember the uh The Matrix one</text>
+    <text start="2382.48" dur="3.98">yeah there was somebody was playing Neo</text>
+    <text start="2384.839" dur="4">wonderfully</text>
+    <text start="2386.46" dur="3.82">there was a lot of long trenches and</text>
+    <text start="2388.839" dur="3.421">guys in suits and everybody had these</text>
+    <text start="2390.28" dur="5.4">very cheap glasses on but I couldn&amp;#39;t</text>
+    <text start="2392.26" dur="5.46">figure out the one guy had a huge huge</text>
+    <text start="2395.68" dur="4.98">thick rope around his waist and I was</text>
+    <text start="2397.72" dur="4.879">like I have not seen The Matrix in a</text>
+    <text start="2400.66" dur="4.679">while I couldn&amp;#39;t figure out</text>
+    <text start="2402.599" dur="4.661">we&amp;#39;re all like what&amp;#39;s the Rope about I</text>
+    <text start="2405.339" dur="3.24">don&amp;#39;t remember a rope in The Matrix and</text>
+    <text start="2407.26" dur="3.18">they&amp;#39;re like dude these synchronized</text>
+    <text start="2408.579" dur="3.131">dancing and it&amp;#39;s like all this encloses</text>
+    <text start="2410.44" dur="3.54">coming off we&amp;#39;re like put it off</text>
+    <text start="2411.71" dur="3.83">[Laughter]</text>
+    <text start="2413.98" dur="3.48">I&amp;#39;m still like I don&amp;#39;t get what the Rope</text>
+    <text start="2415.54" dur="3.42">is about and then the big move comes</text>
+    <text start="2417.46" dur="3.84">where you know the bullets come and he</text>
+    <text start="2418.96" dur="5.04">does like the back bend clearly this</text>
+    <text start="2421.3" dur="4.92">professional dancer could not do a back</text>
+    <text start="2424" dur="4.74">bend so the big move was like all of a</text>
+    <text start="2426.22" dur="5.04">sudden it&amp;#39;s like oh and somebody off</text>
+    <text start="2428.74" dur="4.32">stage is clearly holding the road</text>
+    <text start="2431.26" dur="6.74">thank you</text>
+    <text start="2433.06" dur="9.019">[Applause]</text>
+    <text start="2438" dur="4.079">held this guy up because he was 
+like</text>
+    <text start="2442.42" dur="4.939">okay that was my that was yes that was</text>
+    <text start="2444.7" dur="5.639">like a stand that moment a lot of things</text>
+    <text start="2447.359" dur="5.441">and 
+now Saturday Night Live also was a</text>
+    <text start="2450.339" dur="5.061">big bonding thing now because Christian</text>
+    <text start="2452.8" dur="5.48">do you know Leslie and</text>
+    <text start="2455.4" dur="7.24">Cake</text>
+    <text start="2458.28" dur="6.64">we met I think we met when I posted oh</text>
+    <text start="2462.64" dur="3.9">no we and we did a movie together</text>
+    <text start="2464.92" dur="3.84">um and we worked together after that</text>
+    <text start="2466.54" dur="4.5">okay yeah okay but now you guys are</text>
+    <text start="2468.76" dur="4.14">still in Sacramento life most people I&amp;#39;m</text>
+    <text start="2471.04" dur="3.96">sure no but it&amp;#39;s a it&amp;#39;s a big comedy</text>
+    <text start="2472.9" dur="3.959">sketch show in in America but how long</text>
+    <text start="2475" dur="6.42">we worked together for how many years</text>
+    <text start="2476.859" dur="7.561">now it&amp;#39;s been two after one right it&amp;#39;s</text>
+    <text start="2481.42" dur="4.98">been three maybe three it&amp;#39;s been three</text>
+    <text start="2484.42" dur="5.4">um after the first year Leslie and my</text>
+    <text start="2486.4" dur="5.76">name is Kate McKinnon and she uh I know</text>
+    <text start="2489.82" dur="5.759">that but uh she she came up to me and</text>
+    <text start="2492.16" dur="4.28">she said um after a year of knowing me</text>
+    <text start="2495.579" dur="4.941">um</text>
+    <text start="2496.44" dur="4.08">you all right Kate Middleton</text>
+    <text start="2504.4" dur="6.959">thank you</text>
+    <text start="2505.74" dur="7.3">and were you joking uh no I was not</text>
+    <text start="2511.359" dur="3.421">I was like my kid I was like well who&amp;#39;s</text>
+    <text start="2513.04" dur="4.34">Middleton then she was like a princess</text>
+    <text start="2514.78" dur="2.6">[ __ ]</text>
+    <text start="2518.19" dur="6.61">[Applause]</text>
+    <text start="2521.22" dur="4.74">I like Kate Middleton oh her hair is</text>
+    <text start="2524.8" dur="3.48">awesome</text>
+    <text start="2525.96" dur="3.76">okay he did some you did some great</text>
+    <text start="2528.28" dur="4.68">characters on Saturday Night Live you&amp;#39;re</text>
+    <text start="2529.72" dur="4.65">Justin Bieber Justin Bieber is spookily</text>
+    <text start="2532.96" dur="3.379">accurate</text>
+    <text start="2534.37" dur="4.95">[Applause]</text>
+    <text start="2536.339" dur="5.02">thank you you&amp;#39;ve done it in front of him</text>
+    <text start="2539.32" dur="4.94">haven&amp;#39;t you I have not you haven&amp;#39;t have</text>
+    <text start="2541.359" dur="2.901">not breached</text>
+    <text start="2545.2" dur="4.5">um I met him before because he hosted</text>
+    <text start="2547" dur="4.26">SNL once and then uh that was before I</text>
+    <text start="2549.7" dur="4.2">started doing the impression of him but</text>
+    <text start="2551.26" dur="4.319">I was so struck by how this was before</text>
+    <text start="2553.9" dur="3.48">he got really beefy for those Calvin</text>
+    <text start="2555.579" dur="3.901">kleinance and now he looks like you know</text>
+    <text start="2557.38" dur="4.56">a big Beefcake but</text>
+    <text start="2559.48" dur="4.68">um he was really he was very delicately</text>
+    <text start="2561.94" dur="5.78">very tender beautiful just such a</text>
+    <text start="2564.16" dur="6.179">beautiful face and such a big big hat</text>
+    <text start="2567.72" dur="4.84">such big clothes and just the most</text>
+    <text start="2570.339" dur="4.561">beautiful and I I am a huge fan of his</text>
+    <text start="2572.56" dur="4.86">and I love it now you have a special way</text>
+    <text start="2574.9" dur="4.56">of a special way of preparing the face</text>
+    <text start="2577.42" dur="5.159">haven&amp;#39;t you yes</text>
+    <text start="2579.46" dur="5.58">um yes you you want to look as though</text>
+    <text start="2582.579" dur="5.461">you&amp;#39;ve done something wrong but like</text>
+    <text start="2585.04" dur="3">laughs</text>
+    <text start="2592.22" dur="3.04">[Music]</text>
+    <text start="2598.18" dur="7.08">very good</text>
+    <text start="2601.119" dur="6.321">so now how old are you now I&amp;#39;m 77 and I</text>
+    <text start="2605.26" dur="4.38">don&amp;#39;t know</text>
+    <text start="2607.44" dur="3.07">don&amp;#39;t don&amp;#39;t</text>
+    <text start="2609.64" dur="2.24">know</text>
+    <text start="2610.51" dur="3.51">[Music]</text>
+    <text start="2611.88" dur="5.16">I think they implore because they know</text>
+    <text start="2614.02" dur="3.02">they&amp;#39;re going to live longer than me</text>
+    <text start="2617.26" dur="5.28">in New York they perks it needs to be a</text>
+    <text start="2619.3" dur="6">new apartment on the market soon</text>
+    <text start="2622.54" dur="6.72">I hate when people say like oh there&amp;#39;s</text>
+    <text start="2625.3" dur="6.18">77 years young I met Vanessa Vanessa</text>
+    <text start="2629.26" dur="3.96">Felts and she said to me is Joan she&amp;#39;s</text>
+    <text start="2631.48" dur="6.21">77 years young and I want to say and</text>
+    <text start="2633.22" dur="14.18">here&amp;#39;s Vanessa and she&amp;#39;s 350 pounds thin</text>
+    <text start="2637.69" dur="13.47">[Applause]</text>
+    <text start="2647.4" dur="6.04">it sucks and you have to face it</text>
+    <text start="2651.16" dur="4.98">and you have these I&amp;#39;ve been on this</text>
+    <text start="2653.44" dur="5.22">show with some of these older women that</text>
+    <text start="2656.14" dur="2.8">still try to look good no names Goldie</text>
+    <text start="2658.66" dur="2.699">Hawn</text>
+    <text start="2658.94" dur="6.5">[Applause]</text>
+    <text start="2661.359" dur="5.581">she&amp;#39;s my friend and she says to me would</text>
+    <text start="2665.44" dur="4.26">you believe I got a grown-up daughter</text>
+    <text start="2666.94" dur="4.62">and you go yes</text>
+    <text start="2669.7" dur="4.52">I love your skirt your nipples are</text>
+    <text start="2671.56" dur="2.66">showing I mean</text>
+    <text start="2676.18" dur="3.74">there goes the goldie horn booking</text>
+    <text start="2680.8" dur="7.14">age sucks have you got a face but is it</text>
+    <text start="2685.06" dur="5.279">because America is really so youth</text>
+    <text start="2687.94" dur="4.44">obsessed I mean how and in the film you</text>
+    <text start="2690.339" dur="4.381">show you know kind of that it is hard</text>
+    <text start="2692.38" dur="4.8">for a woman of your age to get the job</text>
+    <text start="2694.72" dur="4.92">it&amp;#39;s beyond difficult the only jobs</text>
+    <text start="2697.18" dur="6.38">really left now for women unless they</text>
+    <text start="2699.64" dur="6.179">get friendly with people to do films but</text>
+    <text start="2703.56" dur="5.259">the only jobs that are really</text>
+    <text start="2705.819" dur="5.821">commercials I just thank God my I made</text>
+    <text start="2708.819" dur="5.581">my yearly not this year on a product</text>
+    <text start="2711.64" dur="5.42">called girly which is for dry vagina and</text>
+    <text start="2714.4" dur="2.66">it&amp;#39;s um</text>
+    <text start="2717.3" dur="6.42">well anyone knows the Heartbreak of dry</text>
+    <text start="2721.18" dur="2.54">vagina</text>
+    <text start="2723.94" dur="3.889">thank you</text>
+    <text start="2724.65" dur="3.179">[Applause]</text>
+    <text start="2728.44" dur="6.379">I was perfect for it like cattle&amp;#39;s</text>
+    <text start="2732.099" dur="2.72">following me home</text>
+    <text start="2735.22" dur="3.2">oh wow</text>
+    <text start="2739.859" dur="6.061">three Jewish men are trying to rent my</text>
+    <text start="2742.48" dur="3.44">uterus instead of going to Miami</text>
+    <text start="2750.24" dur="6.52">but and this</text>
+    <text start="2753.72" dur="6.399">thank God for these commercials there&amp;#39;s</text>
+    <text start="2756.76" dur="5.78">one called an uh Zestra is that come</text>
+    <text start="2760.119" dur="2.421">here yet</text>
+    <text start="2764.2" dur="6.3">women&amp;#39;s Viagra has that happened yet</text>
+    <text start="2766.74" dur="5.379">it&amp;#39;s women&amp;#39;s Viagra and they have this</text>
+    <text start="2770.5" dur="3.72">big discussion with me should they make</text>
+    <text start="2772.119" dur="4.141">it in pill form this is honest to God</text>
+    <text start="2774.22" dur="5.04">truth it was in the newspapers pill form</text>
+    <text start="2776.26" dur="4.98">or cream because they didn&amp;#39;t know which</text>
+    <text start="2779.26" dur="4.079">would do better and they find a side of</text>
+    <text start="2781.24" dur="5.04">these idiots will do it in cream because</text>
+    <text start="2783.339" dur="5.341">if it&amp;#39;s in pill form in a bar a man can</text>
+    <text start="2786.28" dur="3.96">drop it in a woman&amp;#39;s drink and she won&amp;#39;t</text>
+    <text start="2788.68" dur="4.639">know it but if you&amp;#39;re in a barn a guy</text>
+    <text start="2790.24" dur="3.079">goes so where are you from</text>
+    <text start="2797.5" dur="7.98">too</text>
+    <text start="2799.87" dur="5.61">[Applause]</text>
+    <text start="2809.099" dur="4.421">should we do another thing uh we loved</text>
+    <text start="2811.78" dur="3.72">you as the genie in Aladdin well that</text>
+    <text start="2813.52" dur="4.92">was fun so we thought we might have our</text>
+    <text start="2815.5" dur="4.26">very own genie on the show tonight so uh</text>
+    <text start="2818.44" dur="3.8">is there anyone in the audience who</text>
+    <text start="2819.76" dur="6.059">fancies a go at being a genie</text>
+    <text start="2822.24" dur="7.68">too okay try try you uh what what what&amp;#39;s</text>
+    <text start="2825.819" dur="4.101">your name Ewan sorry what yeah</text>
+    <text start="2830.2" dur="3.2">his name is urine</text>
+    <text start="2833.619" dur="5.72">nice to have you here thank you no</text>
+    <text start="2836.26" dur="3.079">worries great area</text>
+    <text start="2839.98" dur="4.56">frightening I know don&amp;#39;t piss off Ewing</text>
+    <text start="2842.98" dur="3.06">okay</text>
+    <text start="2844.54" dur="3.24">don&amp;#39;t think of a magic word right</text>
+    <text start="2846.04" dur="3.779">something you know it&amp;#39;s just you magic</text>
+    <text start="2847.78" dur="3.66">word and that camera three is going to</text>
+    <text start="2849.819" dur="4.201">do a kind of Zoom crash on you so so</text>
+    <text start="2851.44" dur="5.879">when I say go you and you&amp;#39;ll just do</text>
+    <text start="2854.02" dur="5.94">your magic word okay so you and go</text>
+    <text start="2857.319" dur="5.871">hi Graham</text>
+    <text start="2859.96" dur="3.23">[Applause]</text>
+    <text start="2865.26" dur="4.66">wow</text>
+    <text start="2867.72" dur="4.599">how grandma would feel like we&amp;#39;re in the</text>
+    <text start="2869.92" dur="4.56">middle of a Telethon right now</text>
+    <text start="2872.319" dur="4.5">Ewan has learned to say hi Graham thanks</text>
+    <text start="2874.48" dur="4.619">to your dollars</text>
+    <text start="2876.819" dur="4.621">please help we&amp;#39;ll learn another phrase</text>
+    <text start="2879.099" dur="5.781">by the end of the show</text>
+    <text start="2881.44" dur="5.639">is should we should we try another boy</text>
+    <text start="2884.88" dur="4.54">oh actually you&amp;#39;re wearing blue already</text>
+    <text start="2887.079" dur="3.601">that&amp;#39;s why you yeah okay so into that</text>
+    <text start="2889.42" dur="5.48">camera your magic world what&amp;#39;s your name</text>
+    <text start="2890.68" dur="4.22">Nick good Nick okay</text>
+    <text start="2897" dur="4.96">number three and go Alakazam</text>
+    <text start="2902.02" dur="3">wow</text>
+    <text start="2908.579" dur="5.441">it was almost it was almost too good it</text>
+    <text start="2912.22" dur="7.46">was a bit like you&amp;#39;re you&amp;#39;re very good</text>
+    <text start="2914.02" dur="8.4">at that yeah Alakazam time to dance now</text>
+    <text start="2919.68" dur="4.78">I&amp;#39;m gonna dance with you and and good</text>
+    <text start="2922.42" dur="2.25">night</text>
+    <text start="2924.46" dur="3.309">um</text>
+    <text start="2924.67" dur="3.099">[Applause]</text>
+    <text start="2930.44" dur="8.62">[Applause]</text>
+    <text start="2935.94" dur="3.12">there you go</text>
+    <text start="2941.619" dur="3.841">so I&amp;#39;m just gonna get my genie to help</text>
+    <text start="2943.359" dur="3.361">me okay hang on oh yes because I forgot</text>
+    <text start="2945.46" dur="4.34">all about poor creatures</text>
+    <text start="2946.72" dur="7.22">[Applause]</text>
+    <text start="2949.8" dur="4.14">good Nick good oh there he is</text>
+    <text start="2955.14" dur="6.959">ready I need I need a lovely funky DJ</text>
+    <text start="2958.96" dur="3.139">console please</text>
+    <text start="2962.28" dur="3.069">[Applause]</text>
+    <text start="2966.76" dur="5.22">good work good work Nick okay I&amp;#39;ll tell</text>
+    <text start="2969.339" dur="4.02">you what Nick you you can come back into</text>
+    <text start="2971.98" dur="2.58">the studio come back to the studio you</text>
+    <text start="2973.359" dur="3.801">can help us in this thing okay there you</text>
+    <text start="2974.56" dur="2.6">go well done</text>
+    <text start="2977.37" dur="8.05">[Applause]</text>
+    <text start="2982.98" dur="4.359">yeah right I must be floating anymore</text>
+    <text start="2985.42" dur="3.78">thank you okay we go over here for the</text>
+    <text start="2987.339" dur="3.541">DJ bro right here we go here we go it&amp;#39;s</text>
+    <text start="2989.2" dur="4.26">it&amp;#39;s the Robin and Graham Road Show</text>
+    <text start="2990.88" dur="4.32">hello loads of gloves okay you&amp;#39;re over</text>
+    <text start="2993.46" dur="4.2">there now well done so there&amp;#39;s a mic</text>
+    <text start="2995.2" dur="4.08">there now Nick I&amp;#39;ve got some music Nick</text>
+    <text start="2997.66" dur="3.12">put a shout out right now Nick beer now</text>
+    <text start="2999.28" dur="5.299">for the blue people they&amp;#39;re gonna keep</text>
+    <text start="3000.78" dur="3.799">it real get ready for an Alakazam</text>
+    <text start="3004.68" dur="6.3">[Applause]</text>
+    <text start="3008.359" dur="4.901">so it&amp;#39;s the Robin and Graham Road Show</text>
+    <text start="3010.98" dur="6.56">can you do a jingle a live jingle for us</text>
+    <text start="3013.26" dur="6.26">welcome to the Robin and Graham radio</text>
+    <text start="3017.54" dur="4.02">show</text>
+    <text start="3019.52" dur="5.4">very good</text>
+    <text start="3021.56" dur="6">shout out from Nick okay</text>
+    <text start="3024.92" dur="4.899">good evening Robin</text>
+    <text start="3027.56" dur="4.24">welcome back once again we got some</text>
+    <text start="3029.819" dur="4.26">shout outs I got one going on right now</text>
+    <text start="3031.8" dur="4.44">to Stephen Buck he wants to shout out to</text>
+    <text start="3034.079" dur="6.801">Jess who&amp;#39;s your best friend and he says</text>
+    <text start="3036.24" dur="4.64">stop texting him he&amp;#39;s not interested</text>
+    <text start="3043.05" dur="6.359">[Applause]</text>
+    <text start="3053.66" dur="5.199">Michelle Smith Michelle Smith wants to</text>
+    <text start="3056.76" dur="3.72">shout out to Esther best friend that</text>
+    <text start="3058.859" dur="3.72">bloke you pulled don&amp;#39;t worry about</text>
+    <text start="3060.48" dur="5.44">trying to remember his name you can do</text>
+    <text start="3062.579" dur="6.74">so much better yeah</text>
+    <text start="3065.92" dur="6.32">[Applause]</text>
+    <text start="3069.319" dur="4.661">there he is it Marlon if anyone gonna</text>
+    <text start="3072.24" dur="4.26">say we&amp;#39;d like to shout out to his friend</text>
+    <text start="3073.98" dur="5.72">Gregoire don&amp;#39;t worry girls love that you</text>
+    <text start="3076.5" dur="3.2">have got a third nipple</text>
+    <text start="3080.73" dur="13.449">[Applause]</text>
+    <text start="3091.08" dur="3.099">[Music]</text>
+    <text start="3095.599" dur="3.281">you don&amp;#39;t have to</text>
+    <text start="3097.25" dur="3.67">[Applause]</text>
+    <text start="3098.88" dur="2.82">go</text>
+    <text start="3100.92" dur="4.5">wait wait wait wait wait wait wait wait</text>
+    <text start="3101.7" dur="4.95">wait wait wait yeah yes first of all I&amp;#39;m</text>
+    <text start="3105.42" dur="3.679">not a circus freak</text>
+    <text start="3106.65" dur="4.89">[Applause]</text>
+    <text start="3109.099" dur="3.46">secondly I will get my third nipple out</text>
+    <text start="3111.54" dur="3.98">on the condition that Robin Williams</text>
+    <text start="3112.559" dur="2.961">comes and touches it</text>
+    <text start="3116.119" dur="4.2">oh [ __ ] here we go</text>
+    <text start="3121.28" dur="3.24">there we go</text>
+    <text start="3127.619" dur="3.96">this better be a 
+real nipple</text>
+    <text start="3129.84" dur="4.32">[Applause]</text>
+    <text start="3131.579" dur="5.631">ready</text>
+    <text start="3134.16" dur="6.359">oh boy please let it be a nipple</text>
+    <text start="3137.21" dur="3.309">[Applause]</text>
+    <text start="3140.64" dur="4.02">ready ready here we go okay</text>
+    <text start="3143.28" dur="4.279">oh</text>
+    <text start="3144.66" dur="2.899">[ __ ] I did</text>
+    <text start="3148.319" dur="4.141">wow beautiful wow</text>
+    <text start="3154.76" dur="5.68">[Applause]</text>
+    <text start="3157.52" dur="5.079">you&amp;#39;ve got another one</text>
+    <text start="3160.44" dur="4.679">play with my third nipple girl you&amp;#39;ve</text>
+    <text start="3162.599" dur="4.201">never had fun till you go third</text>
+    <text start="3165.119" dur="3.72">once you&amp;#39;ve got the third nipple things</text>
+    <text start="3166.8" dur="3.48">get crazy</text>
+    <text start="3168.839" dur="2.161">the two nipples going but when the third</text>
+    <text start="3170.28" dur="2.52">goes</text>
+    <text start="3171" dur="3.3">[Music]</text>
+    <text start="3172.8" dur="4.58">I&amp;#39;m certain nipple goes and then my</text>
+    <text start="3174.3" dur="3.08">fourth penis jumps out</text>
+    <text start="3178.4" dur="5.14">ladies and Gentlemen please thank my</text>
+    <text start="3180.839" dur="5.701">guest tonight they&amp;#39;re Fantastic Mr Robin</text>
+    <text start="3183.54" dur="3">Williams</text>
+    <text start="3187.579" dur="3.24">hey man</text>
+    <text start="3194.48" dur="3.9">everybody thank you</text>
+    <text start="3199.44" dur="4.22">now Sir Patrick Stewart and you don&amp;#39;t</text>
+    <text start="3201.599" dur="4.281">really use this so much do you</text>
+    <text start="3203.66" dur="4.179">uh</text>
+    <text start="3205.88" dur="3.34">what should I sorry should I have been</text>
+    <text start="3207.839" dur="5.341">calling you no I shouldn&amp;#39;t am I supposed</text>
+    <text start="3209.22" dur="6.839">to no okay but but no do you I take my</text>
+    <text start="3213.18" dur="6">lead from Sir Ian I whom we&amp;#39;ve both</text>
+    <text start="3216.059" dur="6.54">shared some time with yes and uh he is</text>
+    <text start="3219.18" dur="6.179">he is so phlegmatic about all of that</text>
+    <text start="3222.599" dur="4.98">and and I just you know it&amp;#39;s a great</text>
+    <text start="3225.359" dur="5.161">honor but it&amp;#39;s not something that I need</text>
+    <text start="3227.579" dur="5.221">to press when you bump into another sir</text>
+    <text start="3230.52" dur="5.88">when you&amp;#39;re out and about do you then do</text>
+    <text start="3232.8" dur="6.72">you do you call each other well yes sir</text>
+    <text start="3236.4" dur="6.02">you must work roll in sir circles okay</text>
+    <text start="3239.52" dur="2.9">circles</text>
+    <text start="3243.35" dur="12.55">[Applause]</text>
+    <text start="3252.8" dur="6.039">so how do you become a sir</text>
+    <text start="3255.9" dur="7.4">um well Patrick how</text>
+    <text start="3258.839" dur="4.461">well you know it&amp;#39;s a case of um</text>
+    <text start="3265.14" dur="8.1">I got mine on the Queen&amp;#39;s birthday</text>
+    <text start="3268.4" dur="7.48">honors but you have reminded me that I</text>
+    <text start="3273.24" dur="6.18">did have a sir encounter only a few</text>
+    <text start="3275.88" dur="6.6">weeks ago in Los Angeles a rather fancy</text>
+    <text start="3279.42" dur="5.399">in fact extremely fancy restaurant tell</text>
+    <text start="3282.48" dur="6.92">me what it is because they&amp;#39;ll know</text>
+    <text start="3284.819" dur="4.581">um it was the uh the the the Tower bar</text>
+    <text start="3292.28" dur="4.24">I&amp;#39;m not damn</text>
+    <text start="3299.02" dur="9.579">[Applause]</text>
+    <text start="3306.599" dur="2">it</text>
+    <text start="3314.54" dur="5.74">keep going you keep going keep going</text>
+    <text start="3316.98" dur="6.5">okay now the towel bar is a spot I got a</text>
+    <text start="3320.28" dur="3.2">feeling this isn&amp;#39;t gonna work out</text>
+    <text start="3324.859" dur="4.901">four of 
+us were seated at a table about</text>
+    <text start="3327.72" dur="6">15 minutes later into the restaurant</text>
+    <text start="3329.76" dur="7.28">walks Sir Paul McCartney wow good now</text>
+    <text start="3333.72" dur="8.339">Paul and I have a very slender</text>
+    <text start="3337.04" dur="8.279">relationship but it&amp;#39;s lasted decades I</text>
+    <text start="3342.059" dur="8.461">first encountered him in</text>
+    <text start="3345.319" dur="8.8">1964. no when his girlfriend Jane Asher</text>
+    <text start="3350.52" dur="5.76">then told him that I loved Aston Martins</text>
+    <text start="3354.119" dur="4.561">I was driving a battered old Ford but</text>
+    <text start="3356.28" dur="4.86">Aston Martin&amp;#39;s were my dream car she</text>
+    <text start="3358.68" dur="3.84">told him this and one night yeah we knew</text>
+    <text start="3361.14" dur="3.6">he was seeing the show there was a knock</text>
+    <text start="3362.52" dur="4.44">on my door and I said yeah come in I&amp;#39;m</text>
+    <text start="3364.74" dur="4.46">there in my underwear you know like as</text>
+    <text start="3366.96" dur="2.24">usual</text>
+    <text start="3373.559" dur="5.721">in my pants</text>
+    <text start="3375.68" dur="6.28">I&amp;#39;m ready for you</text>
+    <text start="3379.28" dur="4.36">come in and the door open and standing</text>
+    <text start="3381.96" dur="5.879">there was Paul McCartney who I had never</text>
+    <text start="3383.64" dur="6.12">met before and this was 1964. and uh he</text>
+    <text start="3387.839" dur="5.041">said James says that you like Aston</text>
+    <text start="3389.76" dur="4.68">Martin&amp;#39;s here drive this wow and he</text>
+    <text start="3392.88" dur="5.16">tossed a bunch of keys that was pretty</text>
+    <text start="3394.44" dur="5.639">cool and it was an ass it was his</text>
+    <text start="3398.04" dur="4.14">name anyway do you want to hear the rest</text>
+    <text start="3400.079" dur="4.141">let&amp;#39;s keep going keep going we&amp;#39;re in</text>
+    <text start="3402.18" dur="6.679">we&amp;#39;re in the fanciest restaurant in L.A</text>
+    <text start="3404.22" dur="4.639">we&amp;#39;re now in the tower bars we are</text>
+    <text start="3426.44" dur="5.919">he sees me and comes over and uh I stand</text>
+    <text start="3430.02" dur="4.38">up and say hi and we have a big hug in</text>
+    <text start="3432.359" dur="4.141">the restaurant and I&amp;#39;m very much aware</text>
+    <text start="3434.4" dur="3.659">that there&amp;#39;s all the tables are full on</text>
+    <text start="3436.5" dur="3.66">this kind of thing and we talked for</text>
+    <text start="3438.059" dur="4.681">five or six minutes and he goes and sits</text>
+    <text start="3440.16" dur="3.919">down five minutes go by and into the</text>
+    <text start="3442.74" dur="5.46">restaurant</text>
+    <text start="3444.079" dur="5.381">walks a Ringo Starr I swear to you I&amp;#39;m</text>
+    <text start="3448.2" dur="3.659">not making this when were they together</text>
+    <text start="3449.46" dur="4.379">they were they were oh they were at the</text>
+    <text start="3451.859" dur="7.341">same table they were the same yes</text>
+    <text start="3453.839" dur="5.361">um well uh we uh at the tower</text>
+    <text start="3459.8" dur="5.16">I am expecting so many free meals</text>
+    <text start="3465.72" dur="4.98">we finish early and I get up to go and</text>
+    <text start="3468.66" dur="4.439">Paul stands up to say goodbye and 
+we</text>
+    <text start="3470.7" dur="4.379">have a hug and this we have a hug he</text>
+    <text start="3473.099" dur="5.24">says into my ear</text>
+    <text start="3475.079" dur="3.26">do you know Ringo</text>
+    <text start="3479.339" dur="4.74">I&amp;#39;ve never met him but I&amp;#39;m he said oh</text>
+    <text start="3481.619" dur="6">boy Ringo come on come over here</text>
+    <text start="3484.079" dur="7.321">hang on a minute he said sir Ringo</text>
+    <text start="3487.619" dur="5.521">Sir Patrick Sir Paul hey we&amp;#39;ve got the</text>
+    <text start="3491.4" dur="2.27">Knights of the Round Table</text>
+    <text start="3493.14" dur="3.32">[Applause]</text>
+    <text start="3493.67" dur="7.76">[Music]</text>
+    <text start="3496.46" dur="12.23">[Applause]</text>
+    <text start="3501.43" dur="7.26">[Music]</text>
+</transcript>
+error:  TypeError: Cannot read properties of undefined (reading 'forEach')
+    at H:\AI-Dojo\tasks\task8\yt-summary\dist\controllers\mainController.js:109:49
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
