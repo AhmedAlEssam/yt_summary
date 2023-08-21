@@ -21,7 +21,7 @@ export default class Caption extends BaseEntity {
     @Column({ type: 'longtext' })
     modifide_caption: string
 
-    @Column({ type: 'longtext' })
+    @Column({ type: 'longtext', default: null })
     summary: string
 
     @CreateDateColumn()
