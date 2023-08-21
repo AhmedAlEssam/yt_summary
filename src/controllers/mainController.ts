@@ -59,7 +59,7 @@ dotenv.config();
 import { HfInference } from '@huggingface/inference'; //, SummarizationInputs, QuestionAnsweringInputs, TextGenerationInputs
 const HfAccessToken = process.env.HF_HF_ACCESS_TOKEN
 const hf = new HfInference(HfAccessToken)
-import { In } from "typeorm";
+import { Repository, EntityRepository, getRepository, In } from "typeorm";
 // altrnative way te reach parampeters in page we may don't use it and this line and file will be deleted
 import ytDOM from "./ytDOM";
 @Controller('/summary')
@@ -198,51 +198,71 @@ export default class mainController {
                         }
                     }
                     transcript = await Transcript.findOneBy({ eid: videoID });
+                    console.log(transcript.id + 'fjhfh');
+
                     if (!ENGFlag) {
                         transcript.noEnglish = true;
                         await transcript.save()
                     }
-                    await summarize(transcript)
+                    // await summarize(transcript)
                 });
             }
             else {
                 await summarize(transcript);
             }
             async function summarize(transcript: any) {
-                let Eid = transcript.id;
-                console.log(Eid);
+                let tid = transcript.id;
+                console.log(tid);
                 // transcript = await Transcript.findOne({ where: { eid: Eid } })
                 const acceptedLanguages = ['English', 'English (United Kingdom)', 'English (United States)', 'English (auto-generated)'];
                 console.log(transcript);
                 console.log(acceptedLanguages);
                 let enCaption: any = '';
-                enCaption = await Caption.findOne({
-                    where: {
-                        transcript: Eid,
-                        lang: In(acceptedLanguages)
-                    }
-                });
-                if (enCaption) {
-                    console.log(enCaption.id);
-                    console.log(enCaption.modifide_caption);
-                    let sum = await hf.summarization({
-                        model: 'facebook/bart-large-cnn',
+
+
+                // enCaption = await Caption.findOne({
+                //     where: {
+                //         transcript: transcript.id,
+                //         lang: In(acceptedLanguages)
+                //     }
+                // })
+                // enCaption = await Caption.findOne({
+                //     where: {
+                //         transcript: transcript.id
+                //     }
+                // }).andWhere("lang IN (:...acceptedLanguages)", { acceptedLanguages })
+                enCaption = await Caption.createQueryBuilder("caption")
+                    .where("caption.transcript = :transcriptId", { transcriptId: transcript.id })
+                    .andWhere("caption.lang IN (:...acceptedLanguages)", { acceptedLanguages })
+                    .getOne()
+                    .then(async (enCaption) => {
                         //@ts-ignore
-                        inputs: enCaption.modifide_caption,
-                        parameters: {
-                            max_length: 100
+                        console.log(enCaption.id);
+
+                        let abc = await enCaption;
+                        if (enCaption) {
+                            console.log(enCaption.id);
+                            console.log(enCaption.modifide_caption);
+                            let sum = await hf.summarization({
+                                model: 'facebook/bart-large-cnn',
+                                //@ts-ignore
+                                inputs: enCaption.modifide_caption,
+                                parameters: {
+                                    max_length: 100
+                                }
+                            });
+                            enCaption.summary = sum.summary_text;
+                            await enCaption.save();
+                            console.log('//////////////////////////////////////');
+                            console.log(sum.summary_text);
+                            console.log('done summary');
+                            res.json(sum.summary_text);
+                        } else {
+                            console.log("enCaption is null or not found");
+                            res.json("enCaption is null or not found");
                         }
                     });
-                    enCaption.summary = sum.summary_text;
-                    await enCaption.save();
-                    console.log('//////////////////////////////////////');
-                    console.log(sum.summary_text);
-                    console.log('done summary');
-                    res.json(sum.summary_text);
-                } else {
-                    console.log("enCaption is null or not found");
-                    res.json("enCaption is null or not found");
-                }
+
             }
         }
         else {
