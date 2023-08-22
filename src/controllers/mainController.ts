@@ -129,7 +129,7 @@ export default class mainController {
                     }
                     if (transcript.noCaption) {
                         console.log('nop');
-                        // res.send('no subtitle');
+                        res.send('no subtitle');
                         return;
                     }
                     try {
@@ -236,30 +236,29 @@ export default class mainController {
                     .andWhere("caption.lang IN (:...acceptedLanguages)", { acceptedLanguages })
                     .getOne()
                     .then(async (enCaption) => {
-                        //@ts-ignore
-                        console.log(enCaption.id);
-
-                        let abc = await enCaption;
                         if (enCaption) {
-                            console.log(enCaption.id);
-                            console.log(enCaption.modifide_caption);
-                            let sum = await hf.summarization({
-                                model: 'facebook/bart-large-cnn',
-                                //@ts-ignore
-                                inputs: enCaption.modifide_caption,
-                                parameters: {
-                                    max_length: 100
-                                }
-                            });
-                            enCaption.summary = sum.summary_text;
-                            await enCaption.save();
+                            if (!enCaption.summary) {
+                                console.log(enCaption.id);
+                                console.log(enCaption.modifide_caption);
+                                let sum = await hf.summarization({
+                                    model: 'facebook/bart-large-cnn',
+                                    //@ts-ignore
+                                    inputs: enCaption.modifide_caption,
+                                    parameters: {
+                                        max_length: 100
+                                    }
+                                });
+                                enCaption.summary = sum.summary_text;
+                                await enCaption.save();
+                            }
+
                             console.log('//////////////////////////////////////');
-                            console.log(sum.summary_text);
+                            console.log(enCaption.summary);
                             console.log('done summary');
-                            res.json(sum.summary_text);
+                            res.json(enCaption.summary);
                         } else {
-                            console.log("enCaption is null or not found");
-                            res.json("enCaption is null or not found");
+                            console.log(" Caption is null or not found");
+                            res.json(" Caption is null or not found");
                         }
                     });
 
