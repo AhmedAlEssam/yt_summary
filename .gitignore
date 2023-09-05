@@ -1,7 +1,4 @@
 node_modules
-.env
-dist/*
-dist
-/dist
-YTSummeryExtention.pem
-/YTSummeryExtention.pem
+.env 
+dist 
+*.pem
